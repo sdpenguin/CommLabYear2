@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="8CD564FB4B00B16237C9C7C59F74C900" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="F0F9E4D485E7DCE8E33752BD77DEAE76" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
+		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="Data" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/Data" Version="4.5.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="GComponentFeatureSet" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/GComponent.xsd" Version="4.5.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="LabVIEW Virtual Instrument" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/LabVIEW.VI" Version="4.5.0.49156" />
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="Editor" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/PlatformFramework" Version="4.5.0.49153" />
@@ -24,9 +25,9 @@
 				<EnvoyFacadeManager Id="5" xmlns="http://www.ni.com/SystemDesigner/EnvoyManagement">
 					<MappingManager Id="6" xmlns="http://www.ni.com/SystemDesigner/SystemModelCore">
 						<Instance Id="440" Source="{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop">
-							<Symbols p8:Path="[{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop]Desktop" p9:Process.DiscoveryAddress="localhost:SystemController" p9:Process.DiscoveryUserAlias="eews104a-004" p9:Process.FirmwareVersion="L01 v02.57" p9:Process.HardwareAlias="eews104a-004" p9:Process.HardwareRevision="" p9:Process.IsSimulated="False" p9:Process.OperatingSystemDescription="Microsoft Windows 7 Enterprise  (Service Pack 1)" p9:Process.SerialNumber="CZC5290LF0" p9:Process.SupportsExternalCalibration="False" p9:Process.SupportsSelfCalibration="False" p9:Process.SystemUserComment="" p9:Process.VendorName="Hewlett-Packard" p10:Process.ModelName="HP EliteDesk 800 G1 SFF" xmlns:p10="http://www.ni.com/SystemDesigner/SystemModel" xmlns:p9="http://www.ni.com/SystemDesigner/Discovery" xmlns:p8="http://www.ni.com/Core/Proxy" />
+							<Symbols p8:Path="[{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop]Desktop" p9:Process.DiscoveryAddress="localhost:SystemController" p9:Process.DiscoveryUserAlias="eews104a-017" p9:Process.FirmwareVersion="L01 v02.57" p9:Process.HardwareAlias="eews104a-017" p9:Process.HardwareRevision="" p9:Process.IsSimulated="False" p9:Process.OperatingSystemDescription="Microsoft Windows 7 Enterprise  (Service Pack 1)" p9:Process.SerialNumber="CZC5290LFH" p9:Process.SupportsExternalCalibration="False" p9:Process.SupportsSelfCalibration="False" p9:Process.SystemUserComment="" p9:Process.VendorName="Hewlett-Packard" p10:Process.ModelName="HP EliteDesk 800 G1 SFF" xmlns:p10="http://www.ni.com/SystemDesigner/SystemModel" xmlns:p9="http://www.ni.com/SystemDesigner/Discovery" xmlns:p8="http://www.ni.com/Core/Proxy" />
 							<Symbols p8:Path="[{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop]Desktop/DesktopHost" p9:Process.AssociatedIdentifier="456" xmlns:p9="http://www.ni.com/SystemDesigner/SystemModel" xmlns:p8="http://www.ni.com/Core/Proxy" />
-							<Symbols p8:Path="[{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop]Desktop/DesktopHost/[{http://www.ni.com/SystemDesigner/Common/SystemModel}EthernetConnector]EthernetConnector/[{http://www.ni.com/SystemDesigner/Common/SystemModel}NetworkAdapter]NetworkAdapter" p9:Process.DiscoveryAddress="localhost:nisyscfg:eth11" p9:Process.HardwareAlias="Intel(R) Ethernet Connection I217-LM" p9:Process.NetworkConfig.Ipv4Address="155.198.114.43" p9:Process.NetworkConfig.Ipv4DnsServer="155.198.142.7" p9:Process.NetworkConfig.Ipv4Gateway="155.198.114.1" p9:Process.NetworkConfig.Ipv4SubnetMask="255.255.255.0" xmlns:p9="http://www.ni.com/SystemDesigner/Discovery" xmlns:p8="http://www.ni.com/Core/Proxy" />
+							<Symbols p8:Path="[{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop]Desktop/DesktopHost/[{http://www.ni.com/SystemDesigner/Common/SystemModel}EthernetConnector]EthernetConnector/[{http://www.ni.com/SystemDesigner/Common/SystemModel}NetworkAdapter]NetworkAdapter" p9:Process.DiscoveryAddress="localhost:nisyscfg:eth11" p9:Process.HardwareAlias="Intel(R) Ethernet Connection I217-LM" p9:Process.NetworkConfig.Ipv4Address="155.198.114.56" p9:Process.NetworkConfig.Ipv4DnsServer="155.198.142.7" p9:Process.NetworkConfig.Ipv4Gateway="155.198.114.1" p9:Process.NetworkConfig.Ipv4SubnetMask="255.255.255.0" xmlns:p9="http://www.ni.com/SystemDesigner/Discovery" xmlns:p8="http://www.ni.com/Core/Proxy" />
 						</Instance>
 						<Instance Id="612" Source="{http://www.ni.com/SystemDesigner/Vi}Process.Vi">
 							<Symbols p8:Path="[{http://www.ni.com/SystemDesigner/Vi}Process.Vi]Process.Vi" p9:Process.AliasName="AM.gvi" p9:Process.AssociatedIdentifier="610" p9:Process.Visible="False" xmlns:p9="http://www.ni.com/SystemDesigner/SystemModel" xmlns:p8="http://www.ni.com/Core/Proxy" />
@@ -46,6 +47,15 @@
 						<Instance Id="1346" Source="{http://www.ni.com/SystemDesigner/Vi}Process.Vi">
 							<Symbols p8:Path="[{http://www.ni.com/SystemDesigner/Vi}Process.Vi]Process.Vi" p9:Process.AliasName="USRP_AM_Tx.gvi" p9:Process.AssociatedIdentifier="1345" p9:Process.Visible="False" xmlns:p9="http://www.ni.com/SystemDesigner/SystemModel" xmlns:p8="http://www.ni.com/Core/Proxy" />
 						</Instance>
+						<Instance Id="1403" Source="{http://www.ni.com/SystemDesigner/Vi}Process.Vi">
+							<Symbols p8:Path="[{http://www.ni.com/SystemDesigner/Vi}Process.Vi]Process.Vi" p9:Process.AliasName="USRP_AM_Rx_Music.gvi" p9:Process.AssociatedIdentifier="1402" p9:Process.Visible="False" xmlns:p9="http://www.ni.com/SystemDesigner/SystemModel" xmlns:p8="http://www.ni.com/Core/Proxy" />
+						</Instance>
+						<Instance Id="1408" Source="{http://www.ni.com/SystemDesigner/Vi}Process.Vi">
+							<Symbols p8:Path="[{http://www.ni.com/SystemDesigner/Vi}Process.Vi]Process.Vi" p9:Process.AliasName="Simple Resample.gvi" p9:Process.AssociatedIdentifier="1407" p9:Process.Visible="False" xmlns:p9="http://www.ni.com/SystemDesigner/SystemModel" xmlns:p8="http://www.ni.com/Core/Proxy" />
+						</Instance>
+						<Instance Id="1413" Source="{http://www.ni.com/SystemDesigner/Vi}Process.Vi">
+							<Symbols p8:Path="[{http://www.ni.com/SystemDesigner/Vi}Process.Vi]Process.Vi" p9:Process.AliasName="Simple Sound.gvi" p9:Process.AssociatedIdentifier="1412" p9:Process.Visible="False" xmlns:p9="http://www.ni.com/SystemDesigner/SystemModel" xmlns:p8="http://www.ni.com/Core/Proxy" />
+						</Instance>
 						<Superimposition Id="7" Name="Root Superimposition">
 							<Superimpose Source="440">
 								<Superimpose Parent="{:/440}[{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop]Desktop/DesktopHost" Source="612" />
@@ -54,6 +64,9 @@
 								<Superimpose Parent="{:/440}[{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop]Desktop/DesktopHost" Source="1260" />
 								<Superimpose Parent="{:/440}[{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop]Desktop/DesktopHost" Source="1276" />
 								<Superimpose Parent="{:/440}[{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop]Desktop/DesktopHost" Source="1346" />
+								<Superimpose Parent="{:/440}[{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop]Desktop/DesktopHost" Source="1403" />
+								<Superimpose Parent="{:/440}[{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop]Desktop/DesktopHost" Source="1408" />
+								<Superimpose Parent="{:/440}[{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop]Desktop/DesktopHost" Source="1413" />
 							</Superimpose>
 						</Superimposition>
 					</MappingManager>
@@ -77,8 +90,8 @@
 						</SystemHardwareGroupDiagram>
 						<SystemDiagramFacadeElement Name="PartsViewLeaf" Size="315 42" />
 						<SystemDiagramFacadeElement Name="PartsView" Size="315 42" />
-						<MoveableCablingTerminal AssociatedSystemHardware="597" BackingPort="{:/440}[{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop]Desktop/DesktopHost/[{http://www.ni.com/SystemDesigner/Common/SystemModel}EthernetConnector]EthernetConnector/ExternalPort_EthernetConnector" DataType="@75057342aa3448b48dbb4fda2ffb233b" Hotspot="2 90" Id="598" />
-						<MoveableCablingTerminal AssociatedSystemHardware="599" BackingPort="{:/440}[{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop]Desktop/DesktopHost/[{http://www.ni.com/SystemDesigner/Common/SystemModel}UsbConnector]UsbConnector/ExternalPort_UsbConnector" DataType="@75057342aa3448b48dbb4fda2ffb233b" Hotspot="2 113" Id="600" />
+						<MoveableCablingTerminal AssociatedSystemHardware="597" BackingPort="{:/440}[{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop]Desktop/DesktopHost/[{http://www.ni.com/SystemDesigner/Common/SystemModel}EthernetConnector]EthernetConnector/ExternalPort_EthernetConnector" DataType="@28f53190a1be4046bb74e7b53374077c" Hotspot="2 90" Id="598" />
+						<MoveableCablingTerminal AssociatedSystemHardware="599" BackingPort="{:/440}[{http://www.ni.com/SystemDesigner/Desktop/SystemModel}Desktop]Desktop/DesktopHost/[{http://www.ni.com/SystemDesigner/Common/SystemModel}UsbConnector]UsbConnector/ExternalPort_UsbConnector" DataType="@28f53190a1be4046bb74e7b53374077c" Hotspot="2 113" Id="600" />
 					</SystemHardware>
 				</SystemDiagramRootDiagram>
 			</SystemDiagram>
@@ -264,6 +277,13 @@
 								<NameScopingContentReference AutomaticallyResolveUp="True" Bindings="Envoy,ContentReference,NationalInstruments.SourceModel.Envoys.SparseEnvoyManager,NameScopingContentReference" ContentIdentifier="493" Id="678" Name="Resampling">
 									<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.MocCommon.Modeling.TypeDefinition,FileReference,SourceFileReference" Id="679" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="Resample\ State\ \(DBL\)\.gtype" StoragePath="Resample State (DBL).gtype" />
 									<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.MocCommon.Modeling.TypeDefinition,FileReference,SourceFileReference" Id="680" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="Resample\ Constant\ Config\.gtype" StoragePath="Resample Constant Config.gtype" />
+									<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.MocCommon.Modeling.TypeDefinition,FileReference,SourceFileReference" Id="1498" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="Resample\ State\ \(CDB\)\.gtype" StoragePath="Resample State (CDB).gtype" />
+									<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.MocCommon.Modeling.TypeDefinition,FileReference,SourceFileReference" Id="1499" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="Resample\ Variable\ Config\.gtype" StoragePath="Resample Variable Config.gtype" />
+									<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.MocCommon.Modeling.TypeDefinition,FileReference,SourceFileReference" Id="1500" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="Averaging\.gtype" StoragePath="Averaging.gtype" />
+									<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc" Id="1501" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="AAL\ LP\ Kaiser\ Window\ Design\.gvi" StoragePath="AAL LP Kaiser Window Design.gvi" />
+									<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc" Id="1503" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="AAL\ Kaiser\ Parameters\.gvi" StoragePath="AAL Kaiser Parameters.gvi" />
+									<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc" Id="1505" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="AAL\ Compute\ H\(w\)\ from\ h\(n\)\.gvi" StoragePath="AAL Compute H(w) from h(n).gvi" />
+									<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc" Id="1506" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="AAL\ Ramp\ Pattern\.gvi" StoragePath="AAL Ramp Pattern.gvi" />
 								</NameScopingContentReference>
 							</NameScopingContentReference>
 						</NameScopingContentReference>
@@ -382,6 +402,7 @@
 									<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.MocCommon.Modeling.TypeDefinition,FileReference,SourceFileReference" Id="795" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="windowTd\.gtype" StoragePath="windowTd.gtype" />
 									<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc" Id="1083" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Symmetric\ Window\ \(DBL\)\.gvi" StoragePath="Symmetric Window (DBL).gvi" />
 									<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc" Id="1146" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Hanning\ Window\ \(DBL\)\.gvi" StoragePath="Hanning Window (DBL).gvi" />
+									<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc" Id="1504" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Kaiser\-Bessel\ Window\ \(DBL\)\.gvi" StoragePath="Kaiser-Bessel Window (DBL).gvi" />
 								</NameScopingContentReference>
 							</NameScopingContentReference>
 						</NameScopingContentReference>
@@ -390,6 +411,37 @@
 						<SparseEnvoyManager AssociatedLastWriteTime="131117123981078119" Id="513">
 							<SparseEnvoyManagerDependencySource Id="514" Target=":NullTarget:AAL_Conditioning\.gcomp" />
 						</SparseEnvoyManager>
+						<NameScopingContentReference AutomaticallyResolveUp="True" Bindings="Envoy,ContentReference,NationalInstruments.SourceModel.Envoys.SparseEnvoyManager,NameScopingContentReference" ContentIdentifier="513" Id="1427" Name="NI">
+							<NameScopingContentReference AutomaticallyResolveUp="True" Bindings="Envoy,ContentReference,NationalInstruments.SourceModel.Envoys.SparseEnvoyManager,NameScopingContentReference" ContentIdentifier="513" Id="1428" Name="Analysis">
+								<NameScopingContentReference AutomaticallyResolveUp="True" Bindings="Envoy,ContentReference,NationalInstruments.SourceModel.Envoys.SparseEnvoyManager,NameScopingContentReference" ContentIdentifier="513" Id="1429" Name="Conditioning">
+									<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary.Moc,FileReference,SourceFileReference" Id="1430" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="AAL\ Conditioning\.sli" StoragePath="AAL Conditioning.sli">
+										<NameScopingContentReference Bindings="Envoy,ContentReference,NameScopingContentReference" ContentName="AAL Conditioning.sli" Id="1434" Name="AAL\ Conditioning\.sli" SynchronizeNameWithOwningEnvoy="True">
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="72" Id="1435" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="Resample_Const" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="115" Id="1436" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="CxResample_Const" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="158" Id="1437" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="Resample_Variable" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="197" Id="1438" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="CxResample_Variable" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="240" Id="1439" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="CxDecimateContinuous_H" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="283" Id="1440" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="DecimateContinuous_H" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="326" Id="1441" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="CxDecimate_H" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="353" Id="1442" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="DecimateCIN" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="384" Id="1443" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="CxRationalResampleMCh_H" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="435" Id="1444" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="RationalResampleMultiCh_H" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="486" Id="1445" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="CxRationalResample_H" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="537" Id="1446" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="RationalResample_H" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="588" Id="1447" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="unWrap85" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="611" Id="1448" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="Norm2" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="642" Id="1449" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="Norm1" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="673" Id="1450" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="QS1D" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="700" Id="1451" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="QScale" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="727" Id="1452" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="Scale1DCIN" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="758" Id="1453" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="Scale" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="789" Id="1454" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="CxUnitVector80_head" />
+											<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="816" Id="1455" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="unitVector80_head" />
+										</NameScopingContentReference>
+									</SourceFileReference>
+								</NameScopingContentReference>
+							</NameScopingContentReference>
+						</NameScopingContentReference>
 					</EmbeddedDefinitionReference>
 					<EmbeddedDefinitionReference Bindings="ComponentMoC,Envoy,DefinitionReference,SparseEnvoyManager,EmbeddedReference,EnvoyManager" Id="516" ModelDefinitionType="SparseEnvoyManager" Name="AAL_Filtering\.gcomp" Reparentable="False">
 						<SparseEnvoyManager AssociatedLastWriteTime="131117123981549383" Id="517">
@@ -691,6 +743,14 @@
 						<SparseEnvoyManager AssociatedLastWriteTime="131117123992015371" Id="565">
 							<SparseEnvoyManagerDependencySource Id="566" Target=":NullTarget:AAL_Resampling\.gcomp" />
 						</SparseEnvoyManager>
+						<NameScopingContentReference AutomaticallyResolveUp="True" Bindings="Envoy,ContentReference,NationalInstruments.SourceModel.Envoys.SparseEnvoyManager,NameScopingContentReference" ContentIdentifier="565" Id="1417" Name="NI">
+							<NameScopingContentReference AutomaticallyResolveUp="True" Bindings="Envoy,ContentReference,NationalInstruments.SourceModel.Envoys.SparseEnvoyManager,NameScopingContentReference" ContentIdentifier="565" Id="1418" Name="Analysis">
+								<NameScopingContentReference AutomaticallyResolveUp="True" Bindings="Envoy,ContentReference,NationalInstruments.SourceModel.Envoys.SparseEnvoyManager,NameScopingContentReference" ContentIdentifier="565" Id="1419" Name="Resampling">
+									<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc" Id="1420" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Rational\ Resample\ \(single\ channel\,\ DBL\)\.gvi" StoragePath="Rational Resample (single channel, DBL).gvi" />
+									<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc" Id="1426" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="FIR\ Filter\ For\ Rational\ Resample\.gvi" StoragePath="FIR Filter For Rational Resample.gvi" />
+								</NameScopingContentReference>
+							</NameScopingContentReference>
+						</NameScopingContentReference>
 					</EmbeddedDefinitionReference>
 					<EmbeddedDefinitionReference Bindings="ComponentMoC,Envoy,DefinitionReference,SparseEnvoyManager,EmbeddedReference,EnvoyManager" Id="568" ModelDefinitionType="SparseEnvoyManager" Name="AAL_Special_Func\.gcomp" Reparentable="False">
 						<SparseEnvoyManager AssociatedLastWriteTime="131117123992589724" Id="569">
@@ -829,6 +889,9 @@
 						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,ContentKind_{http://www.ni.com/SystemDesigner/Vi}Process.Vi,ProcessBackedProjectServiceMetaFactory" Id="1258" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="AMTopLevel\.gvi" StoragePath="AMTopLevel.gvi" />
 						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,ContentKind_{http://www.ni.com/SystemDesigner/Vi}Process.Vi,ProcessBackedProjectServiceMetaFactory" Id="1275" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="USRP_AM_Rx\.gvi" StoragePath="Lab 2\USRP_AM_Rx.gvi" />
 						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,ContentKind_{http://www.ni.com/SystemDesigner/Vi}Process.Vi,ProcessBackedProjectServiceMetaFactory" Id="1345" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="USRP_AM_Tx\.gvi" StoragePath="Lab 2\USRP_AM_Tx.gvi" />
+						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,ContentKind_{http://www.ni.com/SystemDesigner/Vi}Process.Vi,ProcessBackedProjectServiceMetaFactory" Id="1402" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="USRP_AM_Rx_Music\.gvi" StoragePath="Lab 2\USRP_AM_Rx_Music.gvi" />
+						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,ContentKind_{http://www.ni.com/SystemDesigner/Vi}Process.Vi,ProcessBackedProjectServiceMetaFactory" Id="1407" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Simple\ Resample\.gvi" StoragePath="Lab 2\Simple Resample.gvi" />
+						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc,ContentKind_{http://www.ni.com/SystemDesigner/Vi}Process.Vi,ProcessBackedProjectServiceMetaFactory" Id="1412" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Simple\ Sound\.gvi" StoragePath="Lab 2\Simple Sound.gvi" />
 					</EmbeddedDefinitionReference>
 					<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.UserDefinedRefnums.UdrRepositoryManagerDefinition,EmbeddedReference" Id="605" ModelDefinitionType="NationalInstruments.LabVIEW.VI.UserDefinedRefnums.UdrRepositoryManagerDefinition" Name="udr\.lib" Reparentable="False">
 						<UDRRepositoryManagerDefinition Location="" />
@@ -1025,6 +1088,59 @@
 						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.MocCommon.Modeling.TypeDefinition,FileReference,SourceFileReference" Id="1341" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="LV_niUSRP_FindDevices_niUSRPDevices\ out_Term3_ID12\.gtype" />
 						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc" Id="1350" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="niUSRP\ Open\ Tx\ Session\.gvi" />
 						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc" Id="1351" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="niUSRP\ Write\ Tx\ Data\ \(CDB\)\.gvi" />
+						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc" Id="1421" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Sound\ Output\ Configure\.gvi" />
+						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc" Id="1422" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Sound\ Output\ Write\.gvi" />
+						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc" Id="1423" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Sound\ Output\ Clear\.gvi" />
+						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary.Moc,FileReference,SourceFileReference" Id="1424" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="lvsound2\.sli">
+							<NameScopingContentReference Bindings="Envoy,ContentReference,NameScopingContentReference" ContentName="lvsound2.sli" Id="1456" Name="lvsound2\.sli" SynchronizeNameWithOwningEnvoy="True">
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="10" Id="1457" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="GetConfState" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="41" Id="1458" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="GetConfFormat" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="80" Id="1459" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="PlaySoundFile" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="111" Id="1460" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundDeviceInfo" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="154" Id="1461" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundFileClose" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="173" Id="1462" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundFileInfoRef" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="216" Id="1463" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundReadFileSamplesRead" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="239" Id="1464" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundReadFileData" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="290" Id="1465" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundReadFileData_2" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="341" Id="1466" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundReadFileData_3" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="392" Id="1467" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundReadFileData_4" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="443" Id="1468" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundReadFileData_5" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="494" Id="1469" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundReadFileOpen" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="517" Id="1470" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundWriteFileData" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="548" Id="1471" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundWriteFileData_2" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="579" Id="1472" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundWriteFileData_3" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="610" Id="1473" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundWriteFileData_4" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="641" Id="1474" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundWriteFileData_5" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="672" Id="1475" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundWriteFileOpen" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="711" Id="1476" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SIClear" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="730" Id="1477" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SIConfigure" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="773" Id="1478" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SIRead" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="812" Id="1479" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SIRead_2" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="851" Id="1480" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SIRead_3" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="890" Id="1481" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SIRead_4" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="929" Id="1482" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SIRead_5" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="968" Id="1483" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SIStart" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="987" Id="1484" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SIStop" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="1010" Id="1485" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SOClear" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="1029" Id="1486" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SOConfigure" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="1072" Id="1487" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SOInfo" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="1099" Id="1488" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SOVolume" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="1122" Id="1489" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SOStart" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="1141" Id="1490" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SOPause" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="1160" Id="1491" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SOWait" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="1183" Id="1492" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SOWrite" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="1214" Id="1493" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SOWrite_2" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="1245" Id="1494" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SOWrite_3" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="1276" Id="1495" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SOWrite_4" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="1307" Id="1496" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SOWrite_5" />
+								<ContentReference Bindings="Envoy,ContentReference,NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibraryEntryPoint,SharedLibraryEntryPoint,NationalInstruments.ExternalCodeReference.SourceModel.SharedLibraryEntryPointContent.Moc" ContentIdentifier="1338" Id="1497" ModelDefinitionType="NationalInstruments.MocCommon.ExternalCode.SourceModel.SharedLibrary" Name="SoundNumDevices" />
+							</NameScopingContentReference>
+						</SourceFileReference>
+						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.MocCommon.Modeling.TypeDefinition,FileReference,SourceFileReference" Id="1425" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="Sound\ Output\ Task\ ID\.gtype" />
+						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument,FileReference,SourceFileReference,NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument.Moc" Id="1431" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="_ArrWfmsTo2DArr\.gvi" />
+						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.MocCommon.Modeling.TypeDefinition,FileReference,SourceFileReference" Id="1432" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="Sound\ Data\ Format\.gtype" />
+						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.MocCommon.Modeling.TypeDefinition,FileReference,SourceFileReference" Id="1433" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="Sampling\ Mode\.gtype" />
+						<SourceFileReference Bindings="Envoy,DefinitionReference,NationalInstruments.MocCommon.Modeling.TypeDefinition,FileReference,SourceFileReference" Id="1502" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="GetConfState_isInput_Term1_ID295\.gtype" />
 					</EmbeddedDefinitionReference>
 				</NameScopingEnvoy>
 				<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,RepositoryManagerDefinition,EmbeddedReference" Id="601" ModelDefinitionType="RepositoryManagerDefinition" Name="vi\.lib\.Fpga" Reparentable="False">
@@ -1098,12 +1214,133 @@
 		</NameScopingEnvoy>
 		<NameScopingEnvoy Bindings="Envoy,DefinitionReference,DataDepot,ProjectDefaultCopyPasteServiceOptOut,ProjectDefaultDragDropServiceOptOut,EmbeddedReference,ScopingEnvoy,NameScopingEnvoy" Id="59" ModelDefinitionType="DataDepot" Name="DataDepot">
 			<DataDepot />
+			<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,TDMSRootDefinition,EmbeddedReference" Id="1386" ModelDefinitionType="TDMSRootDefinition" Name="TDMS_Root">
+				<TDMSRootDefinition StoragePath="Data-2017-02-01 142107 607.tdms" xmlns="http://www.ni.com/Data" />
+				<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,TDMSGroupDefinition,EmbeddedReference" Id="1387" ModelDefinitionType="TDMSGroupDefinition" Name="TDMS_GROUP">
+					<TDMSGroupDefinition GroupName="Capture 1" Source="USRP_AM_Rx.gvi" SourceType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Timestamp="02/01/2017 14:21:07" xmlns="http://www.ni.com/Data" />
+					<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,TDMSDataItemDefinition,ProjectDefaultDragDropServiceOptOut,ProjectDefaultCopyPasteServiceOptOut,EmbeddedReference" Id="1388" ModelDefinitionType="TDMSDataItemDefinition" Name="Demodulated\ signal">
+						<TDMSDataItemDefinition DataName="Demodulated signal" DataType="Wfm(Double)" xmlns="http://www.ni.com/Data" />
+					</EmbeddedDefinitionReference>
+					<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,TDMSDataItemDefinition,ProjectDefaultDragDropServiceOptOut,ProjectDefaultCopyPasteServiceOptOut,EmbeddedReference" Id="1389" ModelDefinitionType="TDMSDataItemDefinition" Name="Demodulated\ PSD">
+						<TDMSDataItemDefinition DataName="Demodulated PSD" DataType="@a8106957b9c74a119f0e3cfccf03e781" xmlns="http://www.ni.com/Data" />
+					</EmbeddedDefinitionReference>
+					<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,TDMSDataItemDefinition,ProjectDefaultDragDropServiceOptOut,ProjectDefaultCopyPasteServiceOptOut,EmbeddedReference" Id="1390" ModelDefinitionType="TDMSDataItemDefinition" Name="number\ of\ samples">
+						<TDMSDataItemDefinition DataName="number of samples" DataType="Int64" xmlns="http://www.ni.com/Data" />
+					</EmbeddedDefinitionReference>
+					<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,TDMSDataItemDefinition,ProjectDefaultDragDropServiceOptOut,ProjectDefaultCopyPasteServiceOptOut,EmbeddedReference" Id="1391" ModelDefinitionType="TDMSDataItemDefinition" Name="IQ\ rate">
+						<TDMSDataItemDefinition DataName="IQ rate" DataType="Double" xmlns="http://www.ni.com/Data" />
+					</EmbeddedDefinitionReference>
+					<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,TDMSDataItemDefinition,ProjectDefaultDragDropServiceOptOut,ProjectDefaultCopyPasteServiceOptOut,EmbeddedReference" Id="1392" ModelDefinitionType="TDMSDataItemDefinition" Name="carrier\ frequency">
+						<TDMSDataItemDefinition DataName="carrier frequency" DataType="Double" xmlns="http://www.ni.com/Data" />
+					</EmbeddedDefinitionReference>
+					<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,TDMSDataItemDefinition,ProjectDefaultDragDropServiceOptOut,ProjectDefaultCopyPasteServiceOptOut,EmbeddedReference" Id="1393" ModelDefinitionType="TDMSDataItemDefinition" Name="gain">
+						<TDMSDataItemDefinition DataName="gain" DataType="Double" xmlns="http://www.ni.com/Data" />
+					</EmbeddedDefinitionReference>
+					<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,TDMSDataItemDefinition,ProjectDefaultDragDropServiceOptOut,ProjectDefaultCopyPasteServiceOptOut,EmbeddedReference" Id="1394" ModelDefinitionType="TDMSDataItemDefinition" Name="coerced\ IQ\ rate">
+						<TDMSDataItemDefinition DataName="coerced IQ rate" DataType="Double" xmlns="http://www.ni.com/Data" />
+					</EmbeddedDefinitionReference>
+					<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,TDMSDataItemDefinition,ProjectDefaultDragDropServiceOptOut,ProjectDefaultCopyPasteServiceOptOut,EmbeddedReference" Id="1395" ModelDefinitionType="TDMSDataItemDefinition" Name="coerced\ carrier\ frequency">
+						<TDMSDataItemDefinition DataName="coerced carrier frequency" DataType="Double" xmlns="http://www.ni.com/Data" />
+					</EmbeddedDefinitionReference>
+					<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,TDMSDataItemDefinition,ProjectDefaultDragDropServiceOptOut,ProjectDefaultCopyPasteServiceOptOut,EmbeddedReference" Id="1396" ModelDefinitionType="TDMSDataItemDefinition" Name="coerced\ gain">
+						<TDMSDataItemDefinition DataName="coerced gain" DataType="Double" xmlns="http://www.ni.com/Data" />
+					</EmbeddedDefinitionReference>
+					<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,TDMSDataItemDefinition,ProjectDefaultDragDropServiceOptOut,ProjectDefaultCopyPasteServiceOptOut,EmbeddedReference" Id="1397" ModelDefinitionType="TDMSDataItemDefinition" Name="active\ antenna">
+						<TDMSDataItemDefinition DataName="active antenna" DataType="String" xmlns="http://www.ni.com/Data" />
+					</EmbeddedDefinitionReference>
+					<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,TDMSDataItemDefinition,ProjectDefaultDragDropServiceOptOut,ProjectDefaultCopyPasteServiceOptOut,EmbeddedReference" Id="1398" ModelDefinitionType="TDMSDataItemDefinition" Name="Stop">
+						<TDMSDataItemDefinition DataName="Stop" DataType="Boolean" xmlns="http://www.ni.com/Data" />
+					</EmbeddedDefinitionReference>
+					<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,TDMSDataItemDefinition,ProjectDefaultDragDropServiceOptOut,ProjectDefaultCopyPasteServiceOptOut,EmbeddedReference" Id="1399" ModelDefinitionType="TDMSDataItemDefinition" Name="Error\ Out">
+						<TDMSDataItemDefinition DataName="Error Out" DataType="Error" xmlns="http://www.ni.com/Data" />
+					</EmbeddedDefinitionReference>
+					<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,TDMSDataItemDefinition,ProjectDefaultDragDropServiceOptOut,ProjectDefaultCopyPasteServiceOptOut,EmbeddedReference" Id="1400" ModelDefinitionType="TDMSDataItemDefinition" Name="device\ names">
+						<TDMSDataItemDefinition DataName="device names" DataType="@f261aca30cd44609875979717cdeb8e0" xmlns="http://www.ni.com/Data" />
+					</EmbeddedDefinitionReference>
+					<EmbeddedDefinitionReference Bindings="Envoy,DefinitionReference,TDMSDataItemDefinition,ProjectDefaultDragDropServiceOptOut,ProjectDefaultCopyPasteServiceOptOut,EmbeddedReference" Id="1401" ModelDefinitionType="TDMSDataItemDefinition" Name="low\ cutoff\ frequency">
+						<TDMSDataItemDefinition DataName="low cutoff frequency" DataType="Double" xmlns="http://www.ni.com/Data" />
+					</EmbeddedDefinitionReference>
+				</EmbeddedDefinitionReference>
+			</EmbeddedDefinitionReference>
 		</NameScopingEnvoy>
 	</Project>
 	<ProjectInformation xmlns="http://www.ni.com/PlatformFramework" />
 	<DataTypeReferenceTable xmlns="http://www.ni.com/PlatformFramework">
-		<p.TypeReference TypeId="75057342aa3448b48dbb4fda2ffb233b">
+		<p.TypeReference TypeId="28f53190a1be4046bb74e7b53374077c">
 			<Composite Id="1" Name="SystemDiagramCable" GenericTypeDefinition="Void" BaseType="Void" />
+		</p.TypeReference>
+		<p.TypeReference TypeId="a8106957b9c74a119f0e3cfccf03e781">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="f0" DataType="Double" />
+					<Field FieldAccessPolicy="ReadWrite" Name="df" DataType="Double" />
+					<Field FieldAccessPolicy="ReadWrite" Name="magnitude">
+						<DataType>
+							<VariableArray DereferenceType="Double" />
+						</DataType>
+					</Field>
+				</Members>
+			</Composite>
+		</p.TypeReference>
+		<p.TypeReference TypeId="f261aca30cd44609875979717cdeb8e0">
+			<Attributed>
+				<AttributedType>
+					<Typedef TypedefName="niUSRPClass" UnderlyingType="@cc81c730a2bd4909a6b2a2d9a3632b63" />
+				</AttributedType>
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]Usrp" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="cc81c730a2bd4909a6b2a2d9a3632b63">
+			<Attributed>
+				<AttributedType>
+					<Composite Id="1" Name="Usrp.niUSRPClass" ReferenceClass="" GenericTypeDefinition="Void" BaseType="Void">
+						<Members>
+							<Field FieldAccessPolicy="ReadWrite" Name="Start Trigger Type_118C80" DataType="Int32" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Start Trigger Time (whole seconds)_118C81" DataType="Int64" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Start Trigger Time (fractional seconds)_118C82" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Reference Frequency Source_118C38" DataType="String" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Exported Reference Frequency Output Terminal_118C83" DataType="String" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Timebase Clock Source_118C39" DataType="String" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Exported Timebase Clock Output Terminal_118C84" DataType="String" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Timebase Clock Polarity_118C3A" DataType="Int32" />
+							<Field FieldAccessPolicy="Read" Name="Has GPS Disciplined Clock?_118D36" DataType="Boolean" />
+							<Field FieldAccessPolicy="Read" Name="GPS Time (seconds)_118D60" DataType="Int64" />
+							<Field FieldAccessPolicy="Read" Name="GPS Lock Status_118D61" DataType="Boolean" />
+							<Field FieldAccessPolicy="Read" Name="GPS Sentence GGA_118D62" DataType="String" />
+							<Field FieldAccessPolicy="Read" Name="GPS Sentence RMC_118D63" DataType="String" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Data Clock Rate_118E38" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Enabled Channels_118C40" DataType="String" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Number of Samples Is Finite_118C31" DataType="Boolean" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Number of Samples_118C32" DataType="Int64" />
+							<Field FieldAccessPolicy="ReadWrite" Name="IQ Rate_118C33" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Carrier Frequency_118C34" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Bandwidth_118C35" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Gain_118C36" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Active Antenna_118C37" DataType="String" />
+							<Field FieldAccessPolicy="Read" Name="Number of Channels in Session_118D80" DataType="Int32" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Host Data Type_118C3F" DataType="Int32" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Sample Width_118C3C" DataType="Int32" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Expected Peak_118C3D" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="LO Frequency_118C3E" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Warning Policy_118E30" DataType="Int32" />
+							<Field FieldAccessPolicy="ReadWrite" Name="Enable DC Offset Corection_118E33" DataType="Boolean" />
+							<Field FieldAccessPolicy="Read" Name="Current Driver Version_118D30" DataType="String" />
+							<Field FieldAccessPolicy="Read" Name="Model_118D31" DataType="String" />
+							<Field FieldAccessPolicy="Read" Name="Current Firmware Version_118D32" DataType="String" />
+							<Field FieldAccessPolicy="Read" Name="Oldest Compatible Firmware Version_118D33" DataType="String" />
+							<Field FieldAccessPolicy="Read" Name="Current FPGA Version_118D34" DataType="String" />
+							<Field FieldAccessPolicy="Read" Name="Oldest Compatible FPGA Version_118D35" DataType="String" />
+						</Members>
+					</Composite>
+				</AttributedType>
+				<AttributeValues>
+					<AttributeValue Name="NI_PlatformFramework_RefnumAttributes" Value="[NI_PlatformFramework_RefnumAttributes]TagRefnum" />
+					<AttributeValue Name="NI_UdrClass" Value="[string]niUSRPClass" />
+					<AttributeValue Name="NI_UdrNamespace" Value="[string]Usrp" />
+				</AttributeValues>
+			</Attributed>
 		</p.TypeReference>
 	</DataTypeReferenceTable>
 </SourceFile>

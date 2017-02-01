@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="1767446FCD0A8E39CB16F4BAC804502D" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="4DA791A3BC5B1C21EF9F263A998D221E" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="LabVIEW Controls" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/Controls.LabVIEW.Design" Version="4.5.0.49153" />
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="LabVIEW Virtual Instrument" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/LabVIEW.VI" Version="4.5.0.49156" />
@@ -381,11 +381,11 @@
 		</BlockDiagram>
 		<CPFrontPanel Height="[float]1600" Id="13" Left="[float]0" Top="[float]0" Width="[float]2000">
 			<Graph BaseName="[string]Graph" BorderThickness="[SMThickness]1,1,1,1" DataSource="{DataItemBinding Id=131}" Height="[float]323" Id="133" Label="[UIModel]141" Left="[float]127" PreferIndexData="[bool]False" RenderMode="[RenderMode]Hardware" SuppressScaleLayout="[bool]False" Top="[float]371" Width="[float]524" xmlns="http://www.ni.com/Controls.LabVIEW.Design">
-				<Axis Adjuster="[RangeAdjuster]None" Id="134" Label="[string]Time" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]137" MajorGridLines="[UIModel]177" Orientation="[SMOrientation]Horizontal" Range="[IRange]0.085934020770858183, 0.10432890747066934, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]None" Id="134" Label="[string]Time" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]137" MajorGridLines="[UIModel]177" Orientation="[SMOrientation]Horizontal" Range="[IRange]0.057451189948648465, 0.059599020718763163, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="137" LabelPresenter="[string]LVRelativeSeconds:&gt;&gt;0.0#E+0" />
 					<GridLines Id="177" />
 				</Axis>
-				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="135" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]175" MajorGridLines="[UIModel]176" Orientation="[SMOrientation]Vertical" Range="[IRange]-0.05, 0.05, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="135" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]175" MajorGridLines="[UIModel]176" Orientation="[SMOrientation]Vertical" Range="[IRange]-0.60000000000000009, 0.60000000000000009, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="175" />
 					<GridLines Id="176" />
 				</Axis>
@@ -397,11 +397,11 @@
 			<GraphTools Graph="[UIModel]133" Height="[float]22" Id="140" Left="[float]132" Top="[float]701" Width="[float]148" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 			<Label Height="[float]16" Id="141" LabelOwner="[UIModel]133" Left="[float]127" Text="[string]Demodulated signal" Top="[float]348" Width="[float]107" xmlns="http://www.ni.com/PanelCommon" />
 			<Graph BaseName="[string]Graph" BorderThickness="[SMThickness]1,1,1,1" DataSource="{DataItemBinding Id=150}" Height="[float]286" Id="152" Label="[UIModel]160" Left="[float]705" PreferIndexData="[bool]False" RenderMode="[RenderMode]Hardware" SuppressScaleLayout="[bool]False" Top="[float]371" Width="[float]477" xmlns="http://www.ni.com/Controls.LabVIEW.Design">
-				<Axis Adjuster="[RangeAdjuster]None" Id="153" Label="[string]frequency" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]156" MajorGridLines="[UIModel]180" Orientation="[SMOrientation]Horizontal" Range="[IRange]0, 1738.6051978581688, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]None" Id="153" Label="[string]frequency" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]156" MajorGridLines="[UIModel]180" Orientation="[SMOrientation]Horizontal" Range="[IRange]0, 6719.5595854922285, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="156" LabelPresenter="[string]LVRelativeSeconds:&gt;&gt;0.0#E+0" />
 					<GridLines Id="180" />
 				</Axis>
-				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="154" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]178" MajorGridLines="[UIModel]179" Orientation="[SMOrientation]Vertical" Range="[IRange]0, 0.0007, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="154" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]178" MajorGridLines="[UIModel]179" Orientation="[SMOrientation]Vertical" Range="[IRange]0, 0.13, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="178" />
 					<GridLines Id="179" />
 				</Axis>
@@ -430,7 +430,7 @@
 			<Label Height="[float]16" Id="171" LabelOwner="[UIModel]81" Left="[float]344" Text="[string]active antenna" Top="[float]144" Width="[float]77" xmlns="http://www.ni.com/PanelCommon" />
 			<Switch BaseName="[string]Switch" FalseContent="[string]Off" Height="[float]50" Id="115" IsReadOnly="[bool]False" Label="[UIModel]173" Left="[float]110" Orientation="[SMOrientation]Vertical" Shape="[SwitchShape]Slider" Top="[float]79" TrueContent="[string]On" Value="{DataItemBinding Id=112}" Width="[float]50" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 			<Label Height="[float]16" Id="173" LabelOwner="[UIModel]115" Left="[float]110" Text="[string]Stop" Top="[float]56" Width="[float]25" xmlns="http://www.ni.com/PanelCommon" />
-			<Cluster BorderThickness="[SMThickness]1,1,1,1" ClusterType="[Type]Error" Height="[float]165" Id="280" Label="[UIModel]287" Left="[float]1267" Top="[float]69" Value="{DataItemBinding Id=98}" Width="[float]138" p4:ControlDefinitionChecksum="zmhsRUGWDTf2PX9vKcqFsw==" xmlns:p4="http://www.ni.com/PanelCommon" xmlns="http://www.ni.com/PanelCommon">
+			<Cluster BorderThickness="[SMThickness]1,1,1,1" ClusterType="[Type]Error" Height="[float]165" Id="280" Label="[UIModel]287" Left="[float]1308" Top="[float]79" Value="{DataItemBinding Id=98}" Width="[float]138" p4:ControlDefinitionChecksum="zmhsRUGWDTf2PX9vKcqFsw==" xmlns:p4="http://www.ni.com/PanelCommon" xmlns="http://www.ni.com/PanelCommon">
 				<p4:p.TypeDefinitionTargets>
 					<p4:TypeDefinitionTarget TargetName="Error\.gtype:ControlDefinition" />
 				</p4:p.TypeDefinitionTargets>
@@ -441,7 +441,7 @@
 				<StringControl AcceptsReturn="[bool]True" Height="[float]80" Id="285" IsReadOnly="[bool]True" Label="[UIModel]286" Left="[float]5" Text="{ClusterBinding FieldName=source}" Top="[float]72" Width="[float]120" WordWrap="[bool]True" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 				<p4:Label Height="[float]16" Id="286" LabelOwner="[UIModel]285" Left="[float]5" Text="[string]source" Top="[float]52" Width="[float]35" />
 			</Cluster>
-			<Label Height="[float]16" Id="287" LabelOwner="[UIModel]280" Left="[float]1267" Text="[string]Error Out" Top="[float]46" Width="[float]49" xmlns="http://www.ni.com/PanelCommon" />
+			<Label Height="[float]16" Id="287" LabelOwner="[UIModel]280" Left="[float]1308" Text="[string]Error Out" Top="[float]56" Width="[float]49" xmlns="http://www.ni.com/PanelCommon" />
 			<IONameControl AllowUndefinedValues="[bool]True" BaseName="[string]niUSRPClass" DataType="[Type]@f261aca30cd44609875979717cdeb8e0" Height="[float]22" Id="309" Label="[UIModel]310" Left="[float]122" SelectedResource="{DataItemBinding Id=308}" ShowUserRefresh="[bool]True" Top="[float]167" UdrClass="[string]niUSRPClass" UdrNamespace="[string]Usrp" Width="[float]175" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 			<Label Height="[float]16" Id="310" LabelOwner="[UIModel]309" Left="[float]122" Text="[string]device names" Top="[float]144" Width="[float]72" xmlns="http://www.ni.com/PanelCommon" />
 			<NumericText BaseName="[string]Numeric" Height="[float]22" Id="985" InteractionMode="[NumericTextBoxInteractionModes]ArrowKeys, ScrollWheel, ButtonClicks, TextInput" Label="[UIModel]992" Left="[float]604" MinHeight="[float]22" RadixBase="[RadixBase]Decimal" RadixVisibility="[SMVisibility]Collapsed" Top="[float]167" UnitAnnotation="[string]" Value="{DataItemBinding Id=982}" ValueFormatter="[string]LV:G6" ValueType="[Type]Double" Width="[float]70" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />

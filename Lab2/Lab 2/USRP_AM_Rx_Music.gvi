@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="DBBC16456AA82039E915117687D2895B" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="338064DFDEBEB3687ACC92DAB63D5E3E" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="LabVIEW Controls" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/Controls.LabVIEW.Design" Version="4.5.0.49153" />
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="LabVIEW Virtual Instrument" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/LabVIEW.VI" Version="4.5.0.49156" />
@@ -472,38 +472,38 @@
 			<Wire Id="700" Joints="N(698:Out) N(632:o0)" xmlns="http://www.ni.com/PlatformFramework" />
 		</BlockDiagram>
 		<CPFrontPanel Height="[float]1600" Id="13" Left="[float]0" Top="[float]0" Width="[float]2000">
-			<Graph BaseName="[string]Graph" BorderThickness="[SMThickness]1,1,1,1" DataSource="{DataItemBinding Id=131}" Height="[float]400" Id="133" Label="[UIModel]141" Left="[float]152" PreferIndexData="[bool]False" RenderMode="[RenderMode]Hardware" SuppressScaleLayout="[bool]False" Top="[float]496" Width="[float]600" xmlns="http://www.ni.com/Controls.LabVIEW.Design">
+			<Graph BaseName="[string]Graph" BorderThickness="[SMThickness]1,1,1,1" DataSource="{DataItemBinding Id=131}" Height="[float]341" Id="133" Label="[UIModel]141" Left="[float]115" PreferIndexData="[bool]False" RenderMode="[RenderMode]Hardware" SuppressScaleLayout="[bool]False" Top="[float]482" Width="[float]500" xmlns="http://www.ni.com/Controls.LabVIEW.Design">
 				<Axis Adjuster="[RangeAdjuster]None" Id="134" Label="[string]Time" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]137" MajorGridLines="[UIModel]177" Orientation="[SMOrientation]Horizontal" Range="[IRange]0, 2, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="137" LabelPresenter="[string]LVRelativeSeconds:&gt;&gt;0.0#E+0" />
 					<GridLines Id="177" />
 				</Axis>
-				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="135" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]175" MajorGridLines="[UIModel]176" Orientation="[SMOrientation]Vertical" Range="[IRange]-0.0004, 0.0004, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="135" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]175" MajorGridLines="[UIModel]176" Orientation="[SMOrientation]Vertical" Range="[IRange]-0.001, 0.03, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="175" />
 					<GridLines Id="176" />
 				</Axis>
 				<Plot HorizontalScale="[UIModel]134" Id="136" Label="[string]Plot" VerticalScale="[UIModel]135" Visibility="[SMVisibility]Visible" />
 			</Graph>
-			<ScaleLegend Graph="[UIModel]133" Height="[float]50" Id="278" Left="[float]752" MinHeight="[float]50" Top="[float]846" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<PlotLegend Graph="[UIModel]133" Height="[float]28" Id="138" Left="[float]759" Top="[float]496" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<CursorLegend DefaultCursorForeground="[SMSolidColorBrush]#ff000000" Graph="[UIModel]133" Height="[float]102" Id="139" Left="[float]157" MinHeight="[float]80" Top="[float]925" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<GraphTools Graph="[UIModel]133" Height="[float]22" Id="140" Left="[float]157" Top="[float]903" Width="[float]148" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<Label Height="[float]16" Id="141" LabelOwner="[UIModel]133" Left="[float]152" Text="[string]Demodulated signal" Top="[float]473" Width="[float]107" xmlns="http://www.ni.com/PanelCommon" />
-			<Graph BaseName="[string]Graph" BorderThickness="[SMThickness]1,1,1,1" DataSource="{DataItemBinding Id=150}" Height="[float]400" Id="152" Label="[UIModel]160" Left="[float]890" PreferIndexData="[bool]False" RenderMode="[RenderMode]Hardware" SuppressScaleLayout="[bool]False" Top="[float]496" Width="[float]600" xmlns="http://www.ni.com/Controls.LabVIEW.Design">
+			<ScaleLegend Graph="[UIModel]133" Height="[float]50" Id="278" Left="[float]615" MinHeight="[float]50" Top="[float]773" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<PlotLegend Graph="[UIModel]133" Height="[float]28" Id="138" Left="[float]622" Top="[float]482" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<CursorLegend DefaultCursorForeground="[SMSolidColorBrush]#ff000000" Graph="[UIModel]133" Height="[float]102" Id="139" Left="[float]120" MinHeight="[float]80" Top="[float]852" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<GraphTools Graph="[UIModel]133" Height="[float]22" Id="140" Left="[float]120" Top="[float]830" Width="[float]148" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<Label Height="[float]16" Id="141" LabelOwner="[UIModel]133" Left="[float]115" Text="[string]Demodulated signal" Top="[float]459" Width="[float]107" xmlns="http://www.ni.com/PanelCommon" />
+			<Graph BaseName="[string]Graph" BorderThickness="[SMThickness]1,1,1,1" DataSource="{DataItemBinding Id=150}" Height="[float]328" Id="152" Label="[UIModel]160" Left="[float]708" PreferIndexData="[bool]False" RenderMode="[RenderMode]Hardware" SuppressScaleLayout="[bool]False" Top="[float]482" Width="[float]536" xmlns="http://www.ni.com/Controls.LabVIEW.Design">
 				<Axis Adjuster="[RangeAdjuster]None" Id="153" Label="[string]frequency" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]156" MajorGridLines="[UIModel]180" Orientation="[SMOrientation]Horizontal" Range="[IRange]0, 6800.8048289738435, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="156" LabelPresenter="[string]LVRelativeSeconds:&gt;&gt;0.0#E+0" />
 					<GridLines Id="180" />
 				</Axis>
-				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="154" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]178" MajorGridLines="[UIModel]179" Orientation="[SMOrientation]Vertical" Range="[IRange]0, 1.8E-10, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="154" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]178" MajorGridLines="[UIModel]179" Orientation="[SMOrientation]Vertical" Range="[IRange]0, 1.1E-10, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="178" />
 					<GridLines Id="179" />
 				</Axis>
 				<Plot HorizontalScale="[UIModel]153" Id="155" Label="[string]Plot" VerticalScale="[UIModel]154" Visibility="[SMVisibility]Visible" />
 			</Graph>
-			<ScaleLegend Graph="[UIModel]152" Height="[float]50" Id="279" Left="[float]1490" MinHeight="[float]50" Top="[float]846" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<PlotLegend Graph="[UIModel]152" Height="[float]28" Id="157" Left="[float]1497" Top="[float]496" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<CursorLegend DefaultCursorForeground="[SMSolidColorBrush]#ff000000" Graph="[UIModel]152" Height="[float]102" Id="158" Left="[float]895" MinHeight="[float]80" Top="[float]925" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<GraphTools Graph="[UIModel]152" Height="[float]22" Id="159" Left="[float]895" Top="[float]903" Width="[float]148" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<Label Height="[float]16" Id="160" LabelOwner="[UIModel]152" Left="[float]890" Text="[string]Demodulated PSD" Top="[float]473" Width="[float]98" xmlns="http://www.ni.com/PanelCommon" />
+			<ScaleLegend Graph="[UIModel]152" Height="[float]50" Id="279" Left="[float]1244" MinHeight="[float]50" Top="[float]760" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<PlotLegend Graph="[UIModel]152" Height="[float]28" Id="157" Left="[float]1251" Top="[float]482" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<CursorLegend DefaultCursorForeground="[SMSolidColorBrush]#ff000000" Graph="[UIModel]152" Height="[float]102" Id="158" Left="[float]713" MinHeight="[float]80" Top="[float]839" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<GraphTools Graph="[UIModel]152" Height="[float]22" Id="159" Left="[float]713" Top="[float]817" Width="[float]148" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<Label Height="[float]16" Id="160" LabelOwner="[UIModel]152" Left="[float]708" Text="[string]Demodulated PSD" Top="[float]459" Width="[float]98" xmlns="http://www.ni.com/PanelCommon" />
 			<NumericText BaseName="[string]Numeric" Height="[float]22" Id="34" InteractionMode="[NumericTextBoxInteractionModes]ArrowKeys, ScrollWheel, ButtonClicks, TextInput" Label="[UIModel]164" Left="[float]183" MinHeight="[float]22" Top="[float]88" Value="{DataItemBinding Id=31}" ValueType="[Type]Int64" Width="[float]69" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 			<Label Height="[float]16" Id="164" LabelOwner="[UIModel]34" Left="[float]183" Text="[string]number of samples" Top="[float]65" Width="[float]102" xmlns="http://www.ni.com/PanelCommon" />
 			<NumericText BaseName="[string]Numeric" Height="[float]22" Id="45" InteractionMode="[NumericTextBoxInteractionModes]ArrowKeys, ScrollWheel, ButtonClicks, TextInput" Label="[UIModel]165" Left="[float]355" MinHeight="[float]22" RadixVisibility="[SMVisibility]Collapsed" Top="[float]88" Value="{DataItemBinding Id=42}" ValueFormatter="[string]LV:G6" ValueType="[Type]Double" Width="[float]69" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="BE5B6DA660FD4A753DF5E97972043AB5" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="D2146183B7301CECBD97602CB9C96CE8" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="LabVIEW Controls" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/Controls.LabVIEW.Design" Version="4.5.0.49153" />
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="LabVIEW Virtual Instrument" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/LabVIEW.VI" Version="4.5.0.49156" />
@@ -270,7 +270,7 @@
 				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="101" Label="[string]Time" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]112" Orientation="[SMOrientation]Horizontal" Range="[IRange]0, 0.005, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="112" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
-				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="102" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]113" Orientation="[SMOrientation]Vertical" Range="[IRange]-10, 10, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="102" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]113" Orientation="[SMOrientation]Vertical" Range="[IRange]-4, 4, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="113" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
 				<Plot HorizontalScale="[UIModel]101" Id="103" Label="[string]Plot" VerticalScale="[UIModel]102" Visibility="[SMVisibility]Visible" />
@@ -314,7 +314,7 @@
 				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="172" Label="[string]Time" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]183" Orientation="[SMOrientation]Horizontal" Range="[IRange]0, 0.005, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="183" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
-				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="173" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]184" Orientation="[SMOrientation]Vertical" Range="[IRange]-6, 5, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="173" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]184" Orientation="[SMOrientation]Vertical" Range="[IRange]-10, 10, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="184" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
 				<Plot HorizontalScale="[UIModel]172" Id="174" Label="[string]Plot" VerticalScale="[UIModel]173" Visibility="[SMVisibility]Visible" />
@@ -354,11 +354,11 @@
 			<CursorLegend DefaultCursorForeground="[SMSolidColorBrush]#ff000000" Graph="[UIModel]194" Height="[float]102" Id="209" Left="[float]938" MinHeight="[float]80" Top="[float]604" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 			<ScaleLegend Graph="[UIModel]194" Height="[float]50" Id="210" Left="[float]1269" MinHeight="[float]50" Top="[float]473" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 			<GraphTools Graph="[UIModel]194" Height="[float]22" Id="211" Left="[float]938" Top="[float]582" Visible="[bool]False" Width="[float]148" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<Graph BaseName="[string]Graph" BorderThickness="[SMThickness]1,1,1,1" DataSource="{DataItemBinding Id=228}" Height="[float]237" Id="231" Label="[UIModel]255" Left="[float]640" MetadataAlwaysOverridesPlotNames="[bool]True" PreferIndexData="[bool]False" RenderMode="[RenderMode]Hardware" SuppressScaleLayout="[bool]False" Top="[float]600" Width="[float]366" xmlns="http://www.ni.com/Controls.LabVIEW.Design">
+			<Graph BaseName="[string]Graph" BorderThickness="[SMThickness]1,1,1,1" DataSource="{DataItemBinding Id=228}" Height="[float]255" Id="231" Label="[UIModel]255" Left="[float]615" MetadataAlwaysOverridesPlotNames="[bool]True" PreferIndexData="[bool]False" RenderMode="[RenderMode]Hardware" SuppressScaleLayout="[bool]False" Top="[float]582" Width="[float]410" xmlns="http://www.ni.com/Controls.LabVIEW.Design">
 				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="232" Label="[string]Time" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]243" Orientation="[SMOrientation]Horizontal" Range="[IRange]0, 0.005, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="243" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
-				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="233" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]244" Orientation="[SMOrientation]Vertical" Range="[IRange]-10, 10, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="233" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]244" Orientation="[SMOrientation]Vertical" Range="[IRange]-6, 5, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="244" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
 				<Plot HorizontalScale="[UIModel]232" Id="234" Label="[string]Plot" VerticalScale="[UIModel]233" Visibility="[SMVisibility]Visible" />
@@ -371,11 +371,11 @@
 				<PlotRenderer AreaBaseline="[FillBaseline]Zero" BarBaseline="[FillBaseline]Zero" Id="241" LineStroke="[SMSolidColorBrush]#ff7f7f7f" PointShape="[PointShape]Diamond" />
 				<PlotRenderer AreaBaseline="[FillBaseline]Zero" BarBaseline="[FillBaseline]Zero" Id="242" LineStroke="[SMSolidColorBrush]#ff3c0726" PointShape="[PointShape]Cross" />
 			</Graph>
-			<Label Height="[float]16" Id="255" LabelOwner="[UIModel]231" Left="[float]640" Text="[string]Envelope Output time domain" Top="[float]577" Width="[float]160" xmlns="http://www.ni.com/PanelCommon" />
-			<PlotLegend Graph="[UIModel]231" Height="[float]28" Id="245" Left="[float]1013" Top="[float]600" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<CursorLegend DefaultCursorForeground="[SMSolidColorBrush]#ff000000" Graph="[UIModel]231" Height="[float]102" Id="246" Left="[float]645" MinHeight="[float]80" Top="[float]866" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<ScaleLegend Graph="[UIModel]231" Height="[float]50" Id="247" Left="[float]1013" MinHeight="[float]50" Top="[float]735" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<GraphTools Graph="[UIModel]231" Height="[float]22" Id="248" Left="[float]645" Top="[float]844" Visible="[bool]False" Width="[float]148" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<Label Height="[float]16" Id="255" LabelOwner="[UIModel]231" Left="[float]615" Text="[string]Envelope Output time domain" Top="[float]559" Width="[float]160" xmlns="http://www.ni.com/PanelCommon" />
+			<PlotLegend Graph="[UIModel]231" Height="[float]28" Id="245" Left="[float]1032" Top="[float]582" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<CursorLegend DefaultCursorForeground="[SMSolidColorBrush]#ff000000" Graph="[UIModel]231" Height="[float]102" Id="246" Left="[float]620" MinHeight="[float]80" Top="[float]866" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<ScaleLegend Graph="[UIModel]231" Height="[float]50" Id="247" Left="[float]1032" MinHeight="[float]50" Top="[float]735" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<GraphTools Graph="[UIModel]231" Height="[float]22" Id="248" Left="[float]620" Top="[float]844" Visible="[bool]False" Width="[float]148" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 			<Graph BaseName="[string]Graph" BorderThickness="[SMThickness]1,1,1,1" DataSource="{DataItemBinding Id=256}" Height="[float]256" Id="258" Label="[UIModel]276" Left="[float]149" MetadataAlwaysOverridesPlotNames="[bool]True" PreferIndexData="[bool]False" RenderMode="[RenderMode]Hardware" SuppressScaleLayout="[bool]False" Top="[float]881" Width="[float]393" xmlns="http://www.ni.com/Controls.LabVIEW.Design">
 				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="259" Label="[string]Freq" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]270" Orientation="[SMOrientation]Horizontal" Range="[IRange]0, 100000, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="270" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="A99537906EDC7FFDD0576F813552E7E0" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="C8D5ECE01FA2886CD49571AA730C24E8" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="LabVIEW Controls" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/Controls.LabVIEW.Design" Version="4.5.0.49153" />
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="LabVIEW Virtual Instrument" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/LabVIEW.VI" Version="4.5.0.49156" />
@@ -141,14 +141,7 @@
 		</FrontPanelUnplacedItems>
 		<BlockDiagram Id="13">
 			<WaveformMultiply Bounds="175 465 30 40" Id="15" />
-			<Literal Bounds="80 445 67 16" DataType="Double" Facade="NationalInstruments.MocCommon.SourceModel.INumericBehavior" Id="16" Label="17" xmlns="http://www.ni.com/MocCommon">
-				<p.Data>0x400921FB4D12D84A</p.Data>
-				<NumericBehavior Interpretation="Exact" ValueFormatter="LV:G6" />
-			</Literal>
-			<NodeLabel AttachedTo="16" Bounds="80 445 0 0" Id="17" Visible="False" xmlns="http://www.ni.com/PlatformFramework">
-				<p.Text>input 0</p.Text>
-			</NodeLabel>
-			<Wire Id="18" Joints="N(16:Out) h(5) v(20) N(15:c0t0v)" xmlns="http://www.ni.com/PlatformFramework" />
+			<Wire Id="18" Joints="N(2357:Out) h(50.5) v(55) N(15:c0t0v)" xmlns="http://www.ni.com/PlatformFramework" />
 			<DataAccessor Bounds="95 480 40 15" DataItem="21" Id="19" Label="20" xmlns="http://www.ni.com/MocCommon">
 				<Terminal DataType="Wfm(Double)" Direction="Output" Hotspot="40 5" Id="Value" xmlns="http://www.ni.com/PlatformFramework" />
 			</DataAccessor>
@@ -324,6 +317,12 @@
 				<p.Text>order</p.Text>
 			</NodeLabel>
 			<Wire Id="2356" Joints="N(2354:Value) h(5) v(-235) N(78:L3)" xmlns="http://www.ni.com/PlatformFramework" />
+			<Literal Bounds="80 410 39.5 15" DataType="Double" Facade="Pi" Id="2357" xmlns="http://www.ni.com/MocCommon">
+				<p.ConstantDoubleData>3.1415926535897931</p.ConstantDoubleData>
+				<p.Data>0x400921FB54442D18</p.Data>
+				<NumericBehavior Interpretation="Exact" SearchTerm="Pi" ValueFormatter="LV:R" />
+				<ModelFacade Facade="Pi" xmlns="http://www.ni.com/PlatformFramework" />
+			</Literal>
 		</BlockDiagram>
 		<CPFrontPanel Height="[float]1600" Id="14" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" Top="[float]0" Width="[float]2000" />
 		<DataItem AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" DataType="Wfm(Double)" Id="21" Name="AM Signal" xmlns="http://www.ni.com/MocCommon">

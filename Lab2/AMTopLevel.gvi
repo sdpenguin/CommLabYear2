@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="233EAF4717AB31D2A3BB9996ABAD4E36" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="BE5B6DA660FD4A753DF5E97972043AB5" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="LabVIEW Controls" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/Controls.LabVIEW.Design" Version="4.5.0.49153" />
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="LabVIEW Virtual Instrument" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/LabVIEW.VI" Version="4.5.0.49156" />
@@ -147,7 +147,7 @@
 				<DataAccessor Bounds="375 110 40 15" DataItem="120" Id="122" Label="141" xmlns="http://www.ni.com/MocCommon">
 					<Terminal DataType="Wfm(Double)" Direction="Input" Hotspot="3 5" Id="Value" xmlns="http://www.ni.com/PlatformFramework" />
 				</DataAccessor>
-				<DataAccessor Bounds="840 165 40 15" DataItem="168" Id="170" Label="189" xmlns="http://www.ni.com/MocCommon">
+				<DataAccessor Bounds="865 635 40 15" DataItem="168" Id="170" Label="189" xmlns="http://www.ni.com/MocCommon">
 					<Terminal DataType="Wfm(Double)" Direction="Input" Hotspot="3 5" Id="Value" xmlns="http://www.ni.com/PlatformFramework" />
 				</DataAccessor>
 				<DataAccessor Bounds="425 155 40 15" DataItem="191" Id="193" Label="212" xmlns="http://www.ni.com/MocCommon">
@@ -159,7 +159,7 @@
 				<DataAccessor Bounds="590 385 40 15" DataItem="221" Id="225" Label="226" xmlns="http://www.ni.com/MocCommon">
 					<Terminal DataType="Int32" Direction="Output" Hotspot="40 5" Id="Value" xmlns="http://www.ni.com/PlatformFramework" />
 				</DataAccessor>
-				<DataAccessor Bounds="955 635 40 15" DataItem="228" Id="230" Label="249" xmlns="http://www.ni.com/MocCommon">
+				<DataAccessor Bounds="830 180 40 15" DataItem="228" Id="230" Label="249" xmlns="http://www.ni.com/MocCommon">
 					<Terminal DataType="Wfm(Double)" Direction="Input" Hotspot="3 5" Id="Value" xmlns="http://www.ni.com/PlatformFramework" />
 				</DataAccessor>
 				<DataAccessor Bounds="825 695 40 15" DataItem="256" Id="257" Label="277" xmlns="http://www.ni.com/MocCommon">
@@ -198,7 +198,7 @@
 				<NodeLabel AttachedTo="122" Bounds="420 110 97 14" Id="141" xmlns="http://www.ni.com/PlatformFramework">
 					<p.Text>Carrier waveform</p.Text>
 				</NodeLabel>
-				<NodeLabel AttachedTo="170" Bounds="885 165 166 14" Id="189" xmlns="http://www.ni.com/PlatformFramework">
+				<NodeLabel AttachedTo="170" Bounds="910 635 166 14" Id="189" xmlns="http://www.ni.com/PlatformFramework">
 					<p.Text>Coherent Output time domain</p.Text>
 				</NodeLabel>
 				<NodeLabel AttachedTo="193" Bounds="470 155 50 14" Id="212" xmlns="http://www.ni.com/PlatformFramework">
@@ -210,7 +210,7 @@
 				<NodeLabel AttachedTo="225" Bounds="555 385 30 14" Id="226" xmlns="http://www.ni.com/PlatformFramework">
 					<p.Text>order</p.Text>
 				</NodeLabel>
-				<NodeLabel AttachedTo="230" Bounds="1000 635 165 14" Id="249" xmlns="http://www.ni.com/PlatformFramework">
+				<NodeLabel AttachedTo="230" Bounds="875 180 165 14" Id="249" xmlns="http://www.ni.com/PlatformFramework">
 					<p.Text>Envelope Output time domain</p.Text>
 				</NodeLabel>
 				<NodeLabel AttachedTo="257" Bounds="870 695 117 14" Id="277" xmlns="http://www.ni.com/PlatformFramework">
@@ -222,7 +222,6 @@
 				<Wire Id="167" Joints="N(16:R2) h(90) B(1) h(45) B(2) h(133) v(-180) N(17:L0) B(2) v(300) N(15:L0) B(1) v(-180) N(193:Value)" xmlns="http://www.ni.com/PlatformFramework" />
 				<Wire Id="142" Joints="N(16:R1) h(40) v(-55) B(2) h(35) v(375) N(15:L1) B(2) v(-160) N(122:Value)" xmlns="http://www.ni.com/PlatformFramework" />
 				<Wire Id="227" Joints="N(225:Value) h(45) B(1) h(15) N(15:T1) B(1) v(-150) h(-170) v(-175) h(125) N(17:T1)" xmlns="http://www.ni.com/PlatformFramework" />
-				<Wire Id="250" Joints="N(15:R0) N(230:Value)" xmlns="http://www.ni.com/PlatformFramework" />
 				<Wire Id="302" Joints="N(15:R1) h(105) v(50) N(257:Value)" xmlns="http://www.ni.com/PlatformFramework" />
 				<Wire Id="47" Joints="N(45:Value) h(90) v(95) N(16:L0)" xmlns="http://www.ni.com/PlatformFramework" />
 				<Wire Id="54" Joints="N(52:Value) h(5) v(65) N(16:L1)" xmlns="http://www.ni.com/PlatformFramework" />
@@ -234,7 +233,6 @@
 				<Wire Id="96" Joints="N(94:Value) h(155) N(16:B1)" xmlns="http://www.ni.com/PlatformFramework" />
 				<Wire Id="119" Joints="N(16:R0) h(20) v(-240) N(99:Value)" xmlns="http://www.ni.com/PlatformFramework" />
 				<Wire Id="303" Joints="N(17:R0) h(7) v(-15) N(298:Value)" xmlns="http://www.ni.com/PlatformFramework" />
-				<Wire Id="190" Joints="N(17:R1) N(170:Value)" xmlns="http://www.ni.com/PlatformFramework" />
 				<DataAccessor Bounds="970 735 40 15" DataItem="597" Id="600" Label="601" xmlns="http://www.ni.com/MocCommon">
 					<Terminal DataType="Boolean" Direction="Output" Hotspot="40 5" Id="Value" xmlns="http://www.ni.com/PlatformFramework" />
 				</DataAccessor>
@@ -243,6 +241,8 @@
 					<p.Text>stop</p.Text>
 				</NodeLabel>
 				<Wire Id="617" Joints="N(218:Value) h(20) B(1) h(40) N(15:T0) B(1) v(-235) h(-100) v(-80) h(80) N(17:T0)" xmlns="http://www.ni.com/PlatformFramework" />
+				<Wire Id="618" Joints="N(15:R0) N(170:Value)" xmlns="http://www.ni.com/PlatformFramework" />
+				<Wire Id="619" Joints="N(17:R1) h(160) v(15) N(230:Value)" xmlns="http://www.ni.com/PlatformFramework" />
 			</WhileLoop>
 		</BlockDiagram>
 		<CPFrontPanel Height="[float]1600" Id="14" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" Top="[float]0" Width="[float]2000">
@@ -270,7 +270,7 @@
 				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="101" Label="[string]Time" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]112" Orientation="[SMOrientation]Horizontal" Range="[IRange]0, 0.005, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="112" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
-				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="102" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]113" Orientation="[SMOrientation]Vertical" Range="[IRange]-1, 1, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="102" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]113" Orientation="[SMOrientation]Vertical" Range="[IRange]-10, 10, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="113" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
 				<Plot HorizontalScale="[UIModel]101" Id="103" Label="[string]Plot" VerticalScale="[UIModel]102" Visibility="[SMVisibility]Visible" />
@@ -314,7 +314,7 @@
 				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="172" Label="[string]Time" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]183" Orientation="[SMOrientation]Horizontal" Range="[IRange]0, 0.005, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="183" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
-				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="173" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]184" Orientation="[SMOrientation]Vertical" Range="[IRange]-1.6E-08, 1.6E-08, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="173" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]184" Orientation="[SMOrientation]Vertical" Range="[IRange]-6, 5, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="184" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
 				<Plot HorizontalScale="[UIModel]172" Id="174" Label="[string]Plot" VerticalScale="[UIModel]173" Visibility="[SMVisibility]Visible" />
@@ -336,7 +336,7 @@
 				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="195" Label="[string]Time" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]206" Orientation="[SMOrientation]Horizontal" Range="[IRange]0, 0.005, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="206" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
-				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="196" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]207" Orientation="[SMOrientation]Vertical" Range="[IRange]-3, 3, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="196" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]207" Orientation="[SMOrientation]Vertical" Range="[IRange]-12, 12, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="207" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
 				<Plot HorizontalScale="[UIModel]195" Id="197" Label="[string]Plot" VerticalScale="[UIModel]196" Visibility="[SMVisibility]Visible" />
@@ -358,7 +358,7 @@
 				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="232" Label="[string]Time" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]243" Orientation="[SMOrientation]Horizontal" Range="[IRange]0, 0.005, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="243" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
-				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="233" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]244" Orientation="[SMOrientation]Vertical" Range="[IRange]-1.1, 1, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="233" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]244" Orientation="[SMOrientation]Vertical" Range="[IRange]-10, 10, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="244" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
 				<Plot HorizontalScale="[UIModel]232" Id="234" Label="[string]Plot" VerticalScale="[UIModel]233" Visibility="[SMVisibility]Visible" />
@@ -376,11 +376,11 @@
 			<CursorLegend DefaultCursorForeground="[SMSolidColorBrush]#ff000000" Graph="[UIModel]231" Height="[float]102" Id="246" Left="[float]645" MinHeight="[float]80" Top="[float]866" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 			<ScaleLegend Graph="[UIModel]231" Height="[float]50" Id="247" Left="[float]1013" MinHeight="[float]50" Top="[float]735" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 			<GraphTools Graph="[UIModel]231" Height="[float]22" Id="248" Left="[float]645" Top="[float]844" Visible="[bool]False" Width="[float]148" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<Graph BaseName="[string]Graph" BorderThickness="[SMThickness]1,1,1,1" DataSource="{DataItemBinding Id=256}" Height="[float]226" Id="258" Label="[UIModel]276" Left="[float]149" MetadataAlwaysOverridesPlotNames="[bool]True" PreferIndexData="[bool]False" RenderMode="[RenderMode]Hardware" SuppressScaleLayout="[bool]False" Top="[float]881" Width="[float]331" xmlns="http://www.ni.com/Controls.LabVIEW.Design">
+			<Graph BaseName="[string]Graph" BorderThickness="[SMThickness]1,1,1,1" DataSource="{DataItemBinding Id=256}" Height="[float]256" Id="258" Label="[UIModel]276" Left="[float]149" MetadataAlwaysOverridesPlotNames="[bool]True" PreferIndexData="[bool]False" RenderMode="[RenderMode]Hardware" SuppressScaleLayout="[bool]False" Top="[float]881" Width="[float]393" xmlns="http://www.ni.com/Controls.LabVIEW.Design">
 				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="259" Label="[string]Freq" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]270" Orientation="[SMOrientation]Horizontal" Range="[IRange]0, 100000, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="270" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
-				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="260" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]271" Orientation="[SMOrientation]Vertical" Range="[IRange]0, 0.0017000000000000001, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="260" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]271" Orientation="[SMOrientation]Vertical" Range="[IRange]0, 0.17, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="271" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
 				<Plot HorizontalScale="[UIModel]259" Id="261" Label="[string]Plot" VerticalScale="[UIModel]260" Visibility="[SMVisibility]Visible" />
@@ -393,16 +393,16 @@
 				<PlotRenderer AreaBaseline="[FillBaseline]Zero" BarBaseline="[FillBaseline]Zero" Id="268" LineStroke="[SMSolidColorBrush]#ff7f7f7f" PointShape="[PointShape]Diamond" />
 				<PlotRenderer AreaBaseline="[FillBaseline]Zero" BarBaseline="[FillBaseline]Zero" Id="269" LineStroke="[SMSolidColorBrush]#ff3c0726" PointShape="[PointShape]Cross" />
 			</Graph>
-			<PlotLegend Graph="[UIModel]258" Height="[float]28" Id="272" Left="[float]487" Top="[float]881" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<CursorLegend DefaultCursorForeground="[SMSolidColorBrush]#ff000000" Graph="[UIModel]258" Height="[float]102" Id="273" Left="[float]154" MinHeight="[float]80" Top="[float]1136" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<ScaleLegend Graph="[UIModel]258" Height="[float]50" Id="274" Left="[float]487" MinHeight="[float]50" Top="[float]1005" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<GraphTools Graph="[UIModel]258" Height="[float]22" Id="275" Left="[float]154" Top="[float]1114" Visible="[bool]False" Width="[float]148" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<PlotLegend Graph="[UIModel]258" Height="[float]28" Id="272" Left="[float]549" Top="[float]881" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<CursorLegend DefaultCursorForeground="[SMSolidColorBrush]#ff000000" Graph="[UIModel]258" Height="[float]102" Id="273" Left="[float]154" MinHeight="[float]80" Top="[float]1166" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<ScaleLegend Graph="[UIModel]258" Height="[float]50" Id="274" Left="[float]549" MinHeight="[float]50" Top="[float]1035" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<GraphTools Graph="[UIModel]258" Height="[float]22" Id="275" Left="[float]154" Top="[float]1144" Visible="[bool]False" Width="[float]148" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 			<Label Height="[float]16" Id="276" LabelOwner="[UIModel]258" Left="[float]149" Text="[string]Coherent output PSD" Top="[float]858" Width="[float]113" xmlns="http://www.ni.com/PanelCommon" />
-			<Graph BaseName="[string]Graph" BorderThickness="[SMThickness]1,1,1,1" DataSource="{DataItemBinding Id=297}" Height="[float]226" Id="278" Label="[UIModel]296" Left="[float]658" MetadataAlwaysOverridesPlotNames="[bool]True" PreferIndexData="[bool]False" RenderMode="[RenderMode]Hardware" SuppressScaleLayout="[bool]False" Top="[float]881" Width="[float]331" xmlns="http://www.ni.com/Controls.LabVIEW.Design">
+			<Graph BaseName="[string]Graph" BorderThickness="[SMThickness]1,1,1,1" DataSource="{DataItemBinding Id=297}" Height="[float]243" Id="278" Label="[UIModel]296" Left="[float]658" MetadataAlwaysOverridesPlotNames="[bool]True" PreferIndexData="[bool]False" RenderMode="[RenderMode]Hardware" SuppressScaleLayout="[bool]False" Top="[float]881" Width="[float]373" xmlns="http://www.ni.com/Controls.LabVIEW.Design">
 				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="279" Label="[string]Freq" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]290" Orientation="[SMOrientation]Horizontal" Range="[IRange]0, 100000, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="290" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
-				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="280" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]291" Orientation="[SMOrientation]Vertical" Range="[IRange]0, 5E-19, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]FitVisibleLoosely" Id="280" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]291" Orientation="[SMOrientation]Vertical" Range="[IRange]0, 0.026000000000000002, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="291" LabelPresenter="[string]LVRelativeSeconds:0.######&gt;&gt;0.000E+0" />
 				</Axis>
 				<Plot HorizontalScale="[UIModel]279" Id="281" Label="[string]Plot" VerticalScale="[UIModel]280" Visibility="[SMVisibility]Visible" />
@@ -415,10 +415,10 @@
 				<PlotRenderer AreaBaseline="[FillBaseline]Zero" BarBaseline="[FillBaseline]Zero" Id="288" LineStroke="[SMSolidColorBrush]#ff7f7f7f" PointShape="[PointShape]Diamond" />
 				<PlotRenderer AreaBaseline="[FillBaseline]Zero" BarBaseline="[FillBaseline]Zero" Id="289" LineStroke="[SMSolidColorBrush]#ff3c0726" PointShape="[PointShape]Cross" />
 			</Graph>
-			<PlotLegend Graph="[UIModel]278" Height="[float]28" Id="292" Left="[float]996" Top="[float]881" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<CursorLegend DefaultCursorForeground="[SMSolidColorBrush]#ff000000" Graph="[UIModel]278" Height="[float]102" Id="293" Left="[float]663" MinHeight="[float]80" Top="[float]1136" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<ScaleLegend Graph="[UIModel]278" Height="[float]50" Id="294" Left="[float]996" MinHeight="[float]50" Top="[float]1005" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
-			<GraphTools Graph="[UIModel]278" Height="[float]22" Id="295" Left="[float]663" Top="[float]1114" Visible="[bool]False" Width="[float]148" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<PlotLegend Graph="[UIModel]278" Height="[float]28" Id="292" Left="[float]1038" Top="[float]881" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<CursorLegend DefaultCursorForeground="[SMSolidColorBrush]#ff000000" Graph="[UIModel]278" Height="[float]102" Id="293" Left="[float]663" MinHeight="[float]80" Top="[float]1153" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<ScaleLegend Graph="[UIModel]278" Height="[float]50" Id="294" Left="[float]1038" MinHeight="[float]50" Top="[float]1022" Visible="[bool]False" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<GraphTools Graph="[UIModel]278" Height="[float]22" Id="295" Left="[float]663" Top="[float]1131" Visible="[bool]False" Width="[float]148" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 			<Label Height="[float]16" Id="296" LabelOwner="[UIModel]278" Left="[float]658" Text="[string]envelope detection output PSD" Top="[float]858" Width="[float]166" xmlns="http://www.ni.com/PanelCommon" />
 			<Button BaseName="[string]Stop" Content="[string]Stop" Foreground="[SMColor]#ffff0000" Height="[float]30" Id="598" IncludeInCapture="[bool]False" IsMomentary="[bool]False" Label="[UIModel]603" Latch="[bool]True" Left="[float]1176" MinHeight="[float]13" MinWidth="[float]13" Shape="[ButtonShape]Square" Top="[float]170" Value="{DataItemBinding Id=597}" Width="[float]75" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 			<Label Height="[float]16" Id="603" LabelOwner="[UIModel]598" Left="[float]1176" Text="[string]stop" Top="[float]147" Width="[float]24" xmlns="http://www.ni.com/PanelCommon" />

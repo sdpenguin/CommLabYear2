@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="1347CAEEFD25EC4BDF452E3EADBF735D" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="1635AFD44447B890EBAB2FC440F59FF0" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="LabVIEW Controls" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/Controls.LabVIEW.Design" Version="4.5.0.49153" />
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="LabVIEW Virtual Instrument" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/LabVIEW.VI" Version="4.5.0.49156" />
@@ -555,7 +555,7 @@
 			<Wire Id="673" Joints="N(671:niUSRPClass Terminal) N(91:L0)" xmlns="http://www.ni.com/PlatformFramework" />
 		</BlockDiagram>
 		<CPFrontPanel Height="[float]1600" Id="15" Left="[float]0" Top="[float]0" Width="[float]2000">
-			<Rectangle Fill="[SMSolidColorBrush]#ffe0e0e0" Height="[float]693" Id="366" Left="[float]172" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]16" RadiusY="[float]16" Stroke="[SMSolidColorBrush]#ff000000" StrokeThickness="[float]1" Top="[float]103" Width="[float]294" xmlns="http://www.ni.com/PlatformFramework" />
+			<Rectangle Fill="[SMSolidColorBrush]#ffe0e0e0" Height="[float]693" Id="366" Left="[float]174" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]16" RadiusY="[float]16" Stroke="[SMSolidColorBrush]#ff000000" StrokeThickness="[float]1" Top="[float]78" Width="[float]294" xmlns="http://www.ni.com/PlatformFramework" />
 			<NumericText BaseName="[string]Numeric" Height="[float]22" Id="54" InteractionMode="[NumericTextBoxInteractionModes]ReadOnly" Label="[UIModel]55" Left="[float]348" MinHeight="[float]22" Top="[float]311" Value="{DataItemBinding Id=52}" ValueFormatter="[string]LV:G6" ValueType="[Type]Double" Width="[float]89" xmlns="http://www.ni.com/Controls.LabVIEW.Design">
 				<FontSetting FontSize="9" Id="601" xmlns="http://www.ni.com/PlatformFramework" />
 			</NumericText>
@@ -607,7 +607,7 @@
 					<RangeLabeledDivisions Id="560" LabelPresenter="[string]LVRelativeSeconds:&gt;&gt;0.0#E+0" />
 					<GridLines Id="561" />
 				</Axis>
-				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="558" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]562" MajorGridLines="[UIModel]563" Orientation="[SMOrientation]Vertical" Range="[IRange]-4E-06, 3E-06, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="558" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]562" MajorGridLines="[UIModel]563" Orientation="[SMOrientation]Vertical" Range="[IRange]-3E-06, 2E-06, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="562" />
 					<GridLines Id="563" />
 				</Axis>
@@ -623,7 +623,7 @@
 					<RangeLabeledDivisions Id="572" LabelPresenter="[string]LVRelativeSeconds:&gt;&gt;0.0#E+0" />
 					<GridLines Id="573" />
 				</Axis>
-				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="570" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]574" MajorGridLines="[UIModel]575" Orientation="[SMOrientation]Vertical" Range="[IRange]0, 4E-13, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
+				<Axis Adjuster="[RangeAdjuster]FitLoosely" Id="570" Label="[string]Amplitude" LabelVisibility="[SMVisibility]Visible" MajorDivisions="[UIModel]574" MajorGridLines="[UIModel]575" Orientation="[SMOrientation]Vertical" Range="[IRange]0, 6E-14, System.Double" ScaleKind="[RangeScaleKind]Linear" ValueType="[Type]Double" Visibility="[SMVisibility]Visible">
 					<RangeLabeledDivisions Id="574" />
 					<GridLines Id="575" />
 				</Axis>

@@ -8,7 +8,7 @@
 		<ApplicationVersionInfo Build="4.5.2.51305" Name="LabVIEW Communications System Design Suite" Version="2.0.1" />
 	</SourceModelFeatureSet>
 	<UserSettingsDefinition Envoy="1" Name=":ZProjectSettings">
-		<ProjectLayoutUserSetting Envoy="1" Layout="&quot;&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;\r\n&lt;SandDockLayout Version=&quot;4.5.2.0&quot; IncludeDocuments=&quot;False&quot;&gt;\r\n  &lt;Window Guid=&quot;5ff24aa0-3f64-4fdb-862b-d12100fb1e3d&quot; ContentSize=&quot;248&quot; LastFocused=&quot;0&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;c6bdac44-08b3-4a37-af97-9943ffb14fff&quot; DockedIndexInWindowGroup=&quot;1&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;ef8e9c49-58c8-42f3-b808-8b7ae53b5293&quot; ContentSize=&quot;248&quot; LastFocused=&quot;0&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;c6bdac44-08b3-4a37-af97-9943ffb14fff&quot; DockedIndexInWindowGroup=&quot;2&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;be3e01c3-0792-4c1c-b1a2-70e3bb642ab1&quot; ContentSize=&quot;300&quot; LastFocused=&quot;0&quot; DockedContentSize=&quot;313&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Right&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;1407b3f5-84b5-44db-bb47-e9fec60cbb3d&quot; DockedIndexInWindowGroup=&quot;1&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;668f5cee-765e-4a0a-b915-ab1ed88cdf68&quot; ContentSize=&quot;300&quot; LastFocused=&quot;-8587154928548005802&quot; DockedContentSize=&quot;313&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Right&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;1407b3f5-84b5-44db-bb47-e9fec60cbb3d&quot; DockedIndexInWindowGroup=&quot;0&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;93f86101-6c34-42ed-8688-9d7c421b8a81&quot; ContentSize=&quot;248&quot; LastFocused=&quot;-8587154940067139942&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;c6bdac44-08b3-4a37-af97-9943ffb14fff&quot; DockedIndexInWindowGroup=&quot;0&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;a0a0b4cf-3538-4178-9e6f-a9f961db6963&quot; ContentSize=&quot;248&quot; LastFocused=&quot;0&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;c6bdac44-08b3-4a37-af97-9943ffb14fff&quot; DockedIndexInWindowGroup=&quot;3&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;72562866-aa95-49b2-be38-4c78fe7c2b1a&quot; ContentSize=&quot;208&quot; LastFocused=&quot;-8587154932480895792&quot; DockedContentSize=&quot;200&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Bottom&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;64abfb5c-16ba-4f63-b4e0-58cad4d0d49b&quot; DockedIndexInWindowGroup=&quot;0&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;DockedSplitContainer Dock=&quot;Bottom&quot; ContentSize=&quot;200&quot; SplitterOrientation=&quot;Vertical&quot;&gt;\r\n    &lt;WindowGroup WorkingSize=&quot;100,70&quot; Pinned=&quot;False&quot; SelectedWindow=&quot;72562866-aa95-49b2-be38-4c78fe7c2b1a&quot; Guid=&quot;64abfb5c-16ba-4f63-b4e0-58cad4d0d49b&quot;&gt;\r\n      &lt;Window Guid=&quot;72562866-aa95-49b2-be38-4c78fe7c2b1a&quot; /&gt;\r\n    &lt;/WindowGroup&gt;\r\n  &lt;/DockedSplitContainer&gt;\r\n  &lt;DockedSplitContainer Dock=&quot;Left&quot; ContentSize=&quot;250&quot; SplitterOrientation=&quot;Horizontal&quot;&gt;\r\n    &lt;WindowGroup WorkingSize=&quot;100,70&quot; Pinned=&quot;True&quot; SelectedWindow=&quot;93f86101-6c34-42ed-8688-9d7c421b8a81&quot; Guid=&quot;c6bdac44-08b3-4a37-af97-9943ffb14fff&quot;&gt;\r\n      &lt;Window Guid=&quot;93f86101-6c34-42ed-8688-9d7c421b8a81&quot; /&gt;\r\n      &lt;Window Guid=&quot;5ff24aa0-3f64-4fdb-862b-d12100fb1e3d&quot; /&gt;\r\n      &lt;Window Guid=&quot;ef8e9c49-58c8-42f3-b808-8b7ae53b5293&quot; /&gt;\r\n      &lt;Window Guid=&quot;a0a0b4cf-3538-4178-9e6f-a9f961db6963&quot; /&gt;\r\n    &lt;/WindowGroup&gt;\r\n  &lt;/DockedSplitContainer&gt;\r\n  &lt;DockedSplitContainer Dock=&quot;Right&quot; ContentSize=&quot;313&quot; SplitterOrientation=&quot;Horizontal&quot;&gt;\r\n    &lt;WindowGroup WorkingSize=&quot;100,70&quot; Pinned=&quot;True&quot; SelectedWindow=&quot;668f5cee-765e-4a0a-b915-ab1ed88cdf68&quot; Guid=&quot;1407b3f5-84b5-44db-bb47-e9fec60cbb3d&quot;&gt;\r\n      &lt;Window Guid=&quot;668f5cee-765e-4a0a-b915-ab1ed88cdf68&quot; /&gt;\r\n      &lt;Window Guid=&quot;be3e01c3-0792-4c1c-b1a2-70e3bb642ab1&quot; /&gt;\r\n    &lt;/WindowGroup&gt;\r\n  &lt;/DockedSplitContainer&gt;\r\n&lt;/SandDockLayout&gt;&quot;" Target="Project" xmlns="http://www.ni.com/PlatformFramework" />
+		<ProjectLayoutUserSetting Envoy="1" Layout="&quot;&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;\r\n&lt;SandDockLayout Version=&quot;4.5.2.0&quot; IncludeDocuments=&quot;False&quot;&gt;\r\n  &lt;Window Guid=&quot;5ff24aa0-3f64-4fdb-862b-d12100fb1e3d&quot; ContentSize=&quot;248&quot; LastFocused=&quot;0&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;c6bdac44-08b3-4a37-af97-9943ffb14fff&quot; DockedIndexInWindowGroup=&quot;1&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;ef8e9c49-58c8-42f3-b808-8b7ae53b5293&quot; ContentSize=&quot;248&quot; LastFocused=&quot;0&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;c6bdac44-08b3-4a37-af97-9943ffb14fff&quot; DockedIndexInWindowGroup=&quot;2&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;be3e01c3-0792-4c1c-b1a2-70e3bb642ab1&quot; ContentSize=&quot;300&quot; LastFocused=&quot;0&quot; DockedContentSize=&quot;313&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Right&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;1407b3f5-84b5-44db-bb47-e9fec60cbb3d&quot; DockedIndexInWindowGroup=&quot;1&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;668f5cee-765e-4a0a-b915-ab1ed88cdf68&quot; ContentSize=&quot;300&quot; LastFocused=&quot;-8587154928548005802&quot; DockedContentSize=&quot;313&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Right&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;1407b3f5-84b5-44db-bb47-e9fec60cbb3d&quot; DockedIndexInWindowGroup=&quot;0&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;93f86101-6c34-42ed-8688-9d7c421b8a81&quot; ContentSize=&quot;248&quot; LastFocused=&quot;-8587150431532006253&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;c6bdac44-08b3-4a37-af97-9943ffb14fff&quot; DockedIndexInWindowGroup=&quot;0&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;a0a0b4cf-3538-4178-9e6f-a9f961db6963&quot; ContentSize=&quot;248&quot; LastFocused=&quot;0&quot; DockedContentSize=&quot;250&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Left&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;c6bdac44-08b3-4a37-af97-9943ffb14fff&quot; DockedIndexInWindowGroup=&quot;3&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;Window Guid=&quot;72562866-aa95-49b2-be38-4c78fe7c2b1a&quot; ContentSize=&quot;101&quot; LastFocused=&quot;-8587154932480895792&quot; DockedContentSize=&quot;200&quot; LastOpenDockSituation=&quot;Docked&quot; LastFixedDockSituation=&quot;Docked&quot; DockedPosition=&quot;Bottom&quot; LastFloatingWindowGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingLocation=&quot;0,0&quot; FloatingSize=&quot;250,370&quot; LastDockContainerCount=&quot;1&quot; LastDockContainerIndex=&quot;0&quot; DockedWorkingSize=&quot;100,70&quot; DockedWindowGroupGuid=&quot;64abfb5c-16ba-4f63-b4e0-58cad4d0d49b&quot; DockedIndexInWindowGroup=&quot;0&quot; DockedSplitPath=&quot;0&quot; DocumentWorkingSize=&quot;240,180&quot; DocumentWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; DocumentIndexInWindowGroup=&quot;0&quot; DocumentSplitPath=&quot;0&quot; FloatingWorkingSize=&quot;240,180&quot; FloatingWindowGroupGuid=&quot;00000000-0000-0000-0000-000000000000&quot; FloatingIndexInWindowGroup=&quot;0&quot; FloatingSplitPath=&quot;0&quot; /&gt;\r\n  &lt;DockedSplitContainer Dock=&quot;Bottom&quot; ContentSize=&quot;200&quot; SplitterOrientation=&quot;Vertical&quot;&gt;\r\n    &lt;WindowGroup WorkingSize=&quot;100,70&quot; Pinned=&quot;False&quot; SelectedWindow=&quot;72562866-aa95-49b2-be38-4c78fe7c2b1a&quot; Guid=&quot;64abfb5c-16ba-4f63-b4e0-58cad4d0d49b&quot;&gt;\r\n      &lt;Window Guid=&quot;72562866-aa95-49b2-be38-4c78fe7c2b1a&quot; /&gt;\r\n    &lt;/WindowGroup&gt;\r\n  &lt;/DockedSplitContainer&gt;\r\n  &lt;DockedSplitContainer Dock=&quot;Left&quot; ContentSize=&quot;250&quot; SplitterOrientation=&quot;Horizontal&quot;&gt;\r\n    &lt;WindowGroup WorkingSize=&quot;100,70&quot; Pinned=&quot;True&quot; SelectedWindow=&quot;93f86101-6c34-42ed-8688-9d7c421b8a81&quot; Guid=&quot;c6bdac44-08b3-4a37-af97-9943ffb14fff&quot;&gt;\r\n      &lt;Window Guid=&quot;93f86101-6c34-42ed-8688-9d7c421b8a81&quot; /&gt;\r\n      &lt;Window Guid=&quot;5ff24aa0-3f64-4fdb-862b-d12100fb1e3d&quot; /&gt;\r\n      &lt;Window Guid=&quot;ef8e9c49-58c8-42f3-b808-8b7ae53b5293&quot; /&gt;\r\n      &lt;Window Guid=&quot;a0a0b4cf-3538-4178-9e6f-a9f961db6963&quot; /&gt;\r\n    &lt;/WindowGroup&gt;\r\n  &lt;/DockedSplitContainer&gt;\r\n  &lt;DockedSplitContainer Dock=&quot;Right&quot; ContentSize=&quot;313&quot; SplitterOrientation=&quot;Horizontal&quot;&gt;\r\n    &lt;WindowGroup WorkingSize=&quot;100,70&quot; Pinned=&quot;True&quot; SelectedWindow=&quot;668f5cee-765e-4a0a-b915-ab1ed88cdf68&quot; Guid=&quot;1407b3f5-84b5-44db-bb47-e9fec60cbb3d&quot;&gt;\r\n      &lt;Window Guid=&quot;668f5cee-765e-4a0a-b915-ab1ed88cdf68&quot; /&gt;\r\n      &lt;Window Guid=&quot;be3e01c3-0792-4c1c-b1a2-70e3bb642ab1&quot; /&gt;\r\n    &lt;/WindowGroup&gt;\r\n  &lt;/DockedSplitContainer&gt;\r\n&lt;/SandDockLayout&gt;&quot;" Target="Project" xmlns="http://www.ni.com/PlatformFramework" />
 		<KeyToEnvoysUserSetting Envoy="1" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
 			<p.Dictionary>
 				<p.Entry Kind="Overload" Key="NI:Analysis:Measurement:Power Spectrum Single-shot">
@@ -160,18 +160,24 @@
 				</p.Entry>
 			</p.Dictionary>
 		</KeyToEnvoysUserSetting>
+		<OpenDocumentManager Envoy="1" Target="Project" xmlns="http://www.ni.com/PlatformFramework">
+			<OpenDocument ActiveEditor="NationalInstruments.VI.Design.VIDiagramControl" Envoy="798" />
+			<OpenDocument ActiveEditor="NationalInstruments.VI.Design.VIDiagramControl" Envoy="220" />
+			<OpenDocument ActiveEditor="NationalInstruments.VI.Design.VIDiagramControl" Envoy="660" />
+			<OpenDocument ActiveDocument="True" ActiveEditor="NationalInstruments.VI.Design.VIDiagramControl" Envoy="667" />
+		</OpenDocumentManager>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="3" Name=":Lab3\.lvproject">
-		<ScrollAndZoomSettingCache Envoy="3" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="3" Name=":Lab3\.lvproject" xmlns="http://www.ni.com/PlatformFramework">
+		<ScrollAndZoomSettingCache Envoy="3" Target="Envoy">
 			<ScrollAndZoomEditor EditorName="SystemDiagramEditControl" ScrollHorizontalOffset="516" ScrollVerticalOffset="345" Zoom="1" />
 		</ScrollAndZoomSettingCache>
-		<SplitViewOrientationSettingCache Envoy="3" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+		<SplitViewOrientationSettingCache Envoy="3" Target="Envoy">
 			<SplitEditOrientationEditor ColumnWidth0="647.59615384615381" ColumnWidth2="647.59615384615381" EditorName="SplitEditControl" HorizontalOrientation="True" RowHeight0="1" RowHeight2="0" />
 		</SplitViewOrientationSettingCache>
 	</UserSettingsDefinition>
 	<UserSettingsDefinition Envoy="220" Name=":PC:Interactive:FM_Modulator\.gvi">
 		<DefinitionCacheUserSetting Envoy="220" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
-			<FunctionDefinitionSignatureCache CacheSignature="1D27E040F24F7B0" Height="40" ListViewHeight="205" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/MocCommon">
+			<FunctionDefinitionSignatureCache CacheSignature="1D27E0819BF02DE" Height="40" ListViewHeight="220" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
 						<MergeItem Path="." IsPrimary="True">
@@ -195,11 +201,6 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<CachedMethodCallDependency ExportedSignature="182573109" SourceId="15,92,157" TargetName="NI:Analysis:Generation:Sine\ Waveform\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency ExportedSignature="1360109768" SourceId="71" TargetName="NI:Analysis:IntegralDifferentiation:Integral\ x\(t\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency ExportedSignature="-1399111237" SourceId="192" TargetName="NI:Analysis:Measurement:Power\ Spectral\ Density\ for\ 1\ Chan\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="44,251" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
-				<CachedTypeDefinitionDependency ExportedSignature="694443715" SourceId="43,250" TargetName="Error\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Recommended" DataType="Double" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="message_2000amplitude_DataItem_Name" Name="message amplitude" PreferredDirection="Input" SideIndex="L0">
 					<p.DefaultValue>0x3FF0000000000000</p.DefaultValue>
 				</DataItemCacheInfo>
@@ -212,7 +213,7 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Double" HotSpot="15 40" ListViewHotSpot="0 125" LocalizedNameKey="Delta_2000F_DataItem_Name" Name="Delta F" PreferredDirection="Input" SideIndex="B0">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Double" HotSpot="15 40" ListViewHotSpot="0 125" LocalizedNameKey="Kf_DataItem_Name" Name="Kf" PreferredDirection="Input" SideIndex="B0">
 					<p.DefaultValue>0x0</p.DefaultValue>
 				</DataItemCacheInfo>
 				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 50" LocalizedNameKey="message_2000frequency_DataItem_Name" Name="message frequency" PreferredDirection="Input" SideIndex="L1">
@@ -259,11 +260,31 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="3" CallUsage="Recommended" DataType="Wfm(Double)" HotSpot="40 35" ListViewHotSpot="150 200" LocalizedNameKey="message_2000signal_DataItem_Name" Name="message signal" PreferredDirection="Output" SideIndex="R3" UnitAnnotation="">
+					<p.DefaultValue>
+						<Waveform>
+							<Timestamp>60052752000;0;Utc</Timestamp>
+							<Interval>0x3FF0000000000000</Interval>
+							<Data>
+								<Array Lengths="0" />
+							</Data>
+							<Attributes>
+								<Attribute Name="NI_UnitDescription" DataType="String">""</Attribute>
+								<Attribute Name="NI_ChannelName" DataType="String">""</Attribute>
+							</Attributes>
+						</Waveform>
+					</p.DefaultValue>
+				</DataItemCacheInfo>
+				<CachedMethodCallDependency ExportedSignature="182573109" SourceId="15,92,157" TargetName="NI:Analysis:Generation:Sine\ Waveform\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="1360109768" SourceId="71" TargetName="NI:Analysis:IntegralDifferentiation:Integral\ x\(t\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="-1399111237" SourceId="192" TargetName="NI:Analysis:Measurement:Power\ Spectral\ Density\ for\ 1\ Chan\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="44,251" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
+				<CachedTypeDefinitionDependency ExportedSignature="694443715" SourceId="43,250" TargetName="Error\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 		<ScrollAndZoomSettingCache Envoy="220" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
 			<ScrollAndZoomEditor EditorName="VIPanelControl" ScrollHorizontalOffset="0" ScrollVerticalOffset="0" Zoom="1" />
-			<ScrollAndZoomEditor EditorName="VIDiagramControl" ScrollHorizontalOffset="0" ScrollVerticalOffset="0" Zoom="1" />
+			<ScrollAndZoomEditor EditorName="VIDiagramControl" ScrollHorizontalOffset="164" ScrollVerticalOffset="176" Zoom="1" />
 		</ScrollAndZoomSettingCache>
 	</UserSettingsDefinition>
 	<UserSettingsDefinition Envoy="229" Name=":PC:Interactive:NI:Analysis:Generation:Sine\ Waveform\.gvi">
@@ -2134,8 +2155,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="276" Name=":PC:Interactive:NI:Analysis:Support:AAL\ Base\.sli:AutoCorrelation80">
-		<DefinitionCacheUserSetting Envoy="276" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="276" Name=":PC:Interactive:NI:Analysis:Support:AAL\ Base\.sli:AutoCorrelation80" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="276" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545FD8FCE8" Height="50" IsReentrant="True" ListViewHeight="155" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -7251,8 +7272,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="444" Name=":PC:Interactive:NI:Analysis:Windows:Window\ \(2D\ DBL\)\.gvi">
-		<DefinitionCacheUserSetting Envoy="444" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="444" Name=":PC:Interactive:NI:Analysis:Windows:Window\ \(2D\ DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="444" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545FAB1227" Height="50" ListViewHeight="160" ListViewWidth="150" OverloadGroup="NI:Analysis:Windows:Window" OverloadHelpId="NI.MocCommon:MethodCall.Window (Wfm)" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -7320,8 +7341,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="445" Name=":PC:Interactive:NI:Analysis:Windows:Window\ \(Wfm\)\.gvi">
-		<DefinitionCacheUserSetting Envoy="445" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="445" Name=":PC:Interactive:NI:Analysis:Windows:Window\ \(Wfm\)\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="445" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545FAB3881" Height="50" ListViewHeight="160" ListViewWidth="150" OverloadGroup="NI:Analysis:Windows:Window" OverloadHelpId="NI.MocCommon:MethodCall.Window (Wfm)" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -7416,8 +7437,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="446" Name=":PC:Interactive:NI:Analysis:Windows:Window\ \(Wfms\)\.gvi">
-		<DefinitionCacheUserSetting Envoy="446" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="446" Name=":PC:Interactive:NI:Analysis:Windows:Window\ \(Wfms\)\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="446" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545FAB7208" Height="50" ListViewHeight="160" ListViewWidth="150" OverloadGroup="NI:Analysis:Windows:Window" OverloadHelpId="NI.MocCommon:MethodCall.Window (Wfm)" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -13607,7 +13628,7 @@
 	</UserSettingsDefinition>
 	<UserSettingsDefinition Envoy="660" Name=":PC:Interactive:FMDemodulator\.gvi">
 		<DefinitionCacheUserSetting Envoy="660" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
-			<FunctionDefinitionSignatureCache CacheSignature="1D27E0492C2E2A8" Height="40" ListViewHeight="145" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/MocCommon">
+			<FunctionDefinitionSignatureCache CacheSignature="1D27E05F75D2196" Height="40" ListViewHeight="145" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
 						<MergeItem Path="." IsPrimary="True">
@@ -13634,10 +13655,6 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<CachedMethodCallDependency ExportedSignature="1391401972" SourceId="15" TargetName="NI:Analysis:IntegralDifferentiation:Derivative\ x\(t\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency ExportedSignature="335156897" SourceId="38" TargetName="AMEnvelopeDetection\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedTypeDefinitionDependency ExportedSignature="694443715" SourceId="127,142" TargetName="Error\.gtype" xmlns="http://www.ni.com/PanelCommon" />
-				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="128,143" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
 				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Recommended" DataType="Wfm(Double)" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="FM_2000signal_2000input_DataItem_Name" Name="FM signal input" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="">
 					<p.DefaultValue>
 						<Waveform>
@@ -13697,6 +13714,10 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
+				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="143,128" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
+				<CachedMethodCallDependency ExportedSignature="1391401972" SourceId="15" TargetName="NI:Analysis:IntegralDifferentiation:Derivative\ x\(t\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="335156897" SourceId="38" TargetName="AMEnvelopeDetection\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedTypeDefinitionDependency ExportedSignature="694443715" SourceId="127,142" TargetName="Error\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 		<ScrollAndZoomSettingCache Envoy="660" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
@@ -13896,7 +13917,7 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)" HotSpot="0 5" ListViewHotSpot="0 110" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)" HotSpot="0 5" ListViewHotSpot="0 110" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0">
 					<p.DefaultValue>
 						<Waveform>
 							<Timestamp>60052752000;0;Utc</Timestamp>
@@ -13911,13 +13932,13 @@
 						</Waveform>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 35" LocalizedNameKey="cutoff_2000frequency_DataItem_Name" Name="cutoff frequency" PreferredDirection="Input" SideIndex="L1">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 35" LocalizedNameKey="cutoff_2000frequency_DataItem_Name" Name="cutoff frequency" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
 					<p.DefaultValue>0x3FC0000000000002</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 50" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 50" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 80" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 80" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -13926,10 +13947,10 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 65" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 65" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3" UnitAnnotation="">
 					<p.DefaultValue>2</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Wfm(Double)" HotSpot="50 5" ListViewHotSpot="150 125" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Wfm(Double)" HotSpot="50 5" ListViewHotSpot="150 125" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0">
 					<p.DefaultValue>
 						<Waveform>
 							<Timestamp>60052752000;0;Utc</Timestamp>
@@ -13944,7 +13965,7 @@
 						</Waveform>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 95" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 95" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -13953,9 +13974,9 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<CachedMethodCallDependency SourceId="397" TargetName="NI:Analysis:Filtering:Butterworth\ Filter\ Design\ with\ State\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency SourceId="407" TargetName="NI:Analysis:Filtering:Filtering\ \(Waveform\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedTypeDefinitionDependency SourceId="421" TargetName="NI:Analysis:Filtering:Filter\ Passband\ Type\.gtype" xmlns="http://www.ni.com/PanelCommon" />
+				<CachedMethodCallDependency ExportedSignature="-2075955195" SourceId="397" TargetName="NI:Analysis:Filtering:Butterworth\ Filter\ Design\ with\ State\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="-1893151244" SourceId="407" TargetName="NI:Analysis:Filtering:Filtering\ \(Waveform\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedTypeDefinitionDependency ExportedSignature="108788496" SourceId="421" TargetName="NI:Analysis:Filtering:Filter\ Passband\ Type\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="456,447" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="694443715" SourceId="135,136" TargetName="Error\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 			</FunctionDefinitionSignatureCache>
@@ -13995,7 +14016,7 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0">
 					<p.DefaultValue>
 						<Waveform>
 							<Timestamp>60052752000;0;Utc</Timestamp>
@@ -14010,7 +14031,7 @@
 						</Waveform>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 50" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 50" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -14019,7 +14040,7 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 65" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 65" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -14028,16 +14049,16 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="50 5" ListViewHotSpot="150 80" LocalizedNameKey="AC_2000value_DataItem_Name" Name="AC value" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="50 5" ListViewHotSpot="150 80" LocalizedNameKey="AC_2000value_DataItem_Name" Name="AC value" PreferredDirection="Output" SideIndex="R0">
 					<p.DefaultValue>0x0</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="2" CallUsage="Recommended" DataType="Double" HotSpot="50 15" ListViewHotSpot="150 95" LocalizedNameKey="DC_2000value_DataItem_Name" Name="DC value" PreferredDirection="Output" SideIndex="R1" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="2" CallUsage="Recommended" DataType="Double" HotSpot="50 15" ListViewHotSpot="150 95" LocalizedNameKey="DC_2000value_DataItem_Name" Name="DC value" PreferredDirection="Output" SideIndex="R1">
 					<p.DefaultValue>0x0</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="50 25" ListViewHotSpot="150 110" LocalizedNameKey="RMS_2000value_DataItem_Name" Name="RMS value" PreferredDirection="Output" SideIndex="R2" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="50 25" ListViewHotSpot="150 110" LocalizedNameKey="RMS_2000value_DataItem_Name" Name="RMS value" PreferredDirection="Output" SideIndex="R2">
 					<p.DefaultValue>0x0</p.DefaultValue>
 				</DataItemCacheInfo>
-				<CachedMethodCallDependency SourceId="223" TargetName="NI:Analysis:Measurement:AC\ DC\ and\ RMS\ \(single\-shot\)\(1D\ DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="1401001068" SourceId="223" TargetName="NI:Analysis:Measurement:AC\ DC\ and\ RMS\ \(single\-shot\)\(1D\ DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="280,271" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="694443715" SourceId="36,47" TargetName="Error\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 			</FunctionDefinitionSignatureCache>
@@ -14077,8 +14098,8 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Recommended" DataType="Double[]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="" />
-				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 50" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Recommended" DataType="Double[]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" />
+				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 50" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -14087,7 +14108,7 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 65" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 65" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -14096,19 +14117,19 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="50 5" ListViewHotSpot="150 80" LocalizedNameKey="AC_2000value_DataItem_Name" Name="AC value" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="50 5" ListViewHotSpot="150 80" LocalizedNameKey="AC_2000value_DataItem_Name" Name="AC value" PreferredDirection="Output" SideIndex="R0">
 					<p.DefaultValue>0x0</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="2" CallUsage="Recommended" DataType="Double" HotSpot="50 15" ListViewHotSpot="150 95" LocalizedNameKey="DC_2000value_DataItem_Name" Name="DC value" PreferredDirection="Output" SideIndex="R1" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="2" CallUsage="Recommended" DataType="Double" HotSpot="50 15" ListViewHotSpot="150 95" LocalizedNameKey="DC_2000value_DataItem_Name" Name="DC value" PreferredDirection="Output" SideIndex="R1">
 					<p.DefaultValue>0x0</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="50 25" ListViewHotSpot="150 110" LocalizedNameKey="RMS_2000value_DataItem_Name" Name="RMS value" PreferredDirection="Output" SideIndex="R2" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="50 25" ListViewHotSpot="150 110" LocalizedNameKey="RMS_2000value_DataItem_Name" Name="RMS value" PreferredDirection="Output" SideIndex="R2">
 					<p.DefaultValue>0x0</p.DefaultValue>
 				</DataItemCacheInfo>
-				<CachedMethodCallDependency SourceId="72,76" TargetName="NI:Analysis:Windows:Hanning\ Window\ \(DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency SourceId="73" TargetName="NI:Analysis:Statistics:Mean\ \(DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency SourceId="77" TargetName="NI:Analysis:Statistics:Std\ Deviation\ and\ Variance\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency SourceId="112" TargetName="NI:Analysis:Statistics:RMS\ \(DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="1526650008" SourceId="72,76" TargetName="NI:Analysis:Windows:Hanning\ Window\ \(DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="354541515" SourceId="73" TargetName="NI:Analysis:Statistics:Mean\ \(DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="-79165789" SourceId="77" TargetName="NI:Analysis:Statistics:Std\ Deviation\ and\ Variance\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="817558994" SourceId="112" TargetName="NI:Analysis:Statistics:RMS\ \(DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="258,249" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="694443715" SourceId="36,47" TargetName="Error\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 			</FunctionDefinitionSignatureCache>
@@ -14146,35 +14167,35 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<CachedMethodCallDependency SourceId="327" TargetName="NI:Analysis:Filtering:Butterworth\ Filter\ Design\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="1287558674" SourceId="327" TargetName="NI:Analysis:Filtering:Butterworth\ Filter\ Design\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="462,453" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
-				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="471" TargetName="NI:Analysis:Filtering:Filter\ Passband\ Type\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
-				<CachedTypeDefinitionDependency SourceId="435" TargetName="NI:Analysis:Filtering:filter\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
-				<CachedTypeDefinitionDependency SourceId="442" TargetName="NI:Analysis:Filtering:filter\ structure\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
-				<CachedTypeDefinitionDependency SourceId="495" TargetName="NI:Analysis:Filtering:Filter\ Structure\ Type\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
+				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="471" TargetName="NI:Analysis:Filtering:filter\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
+				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="484" TargetName="NI:Analysis:Filtering:Filter\ Passband\ Type\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
+				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="451" TargetName="NI:Analysis:Filtering:Filter\ Structure\ Type\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
+				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="478" TargetName="NI:Analysis:Filtering:filter\ structure\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="694443715" SourceId="150,161" TargetName="Error\.gtype" xmlns="http://www.ni.com/PanelCommon" />
-				<CachedTypeDefinitionDependency SourceId="376" TargetName="NI:Analysis:Filtering:filter\.gtype" xmlns="http://www.ni.com/PanelCommon" />
-				<CachedTypeDefinitionDependency SourceId="405" TargetName="NI:Analysis:Filtering:Filter\ Structure\ Type\.gtype" xmlns="http://www.ni.com/PanelCommon" />
+				<CachedTypeDefinitionDependency ExportedSignature="1575076611" SourceId="405" TargetName="NI:Analysis:Filtering:Filter\ Structure\ Type\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="108788496" SourceId="412" TargetName="NI:Analysis:Filtering:Filter\ Passband\ Type\.gtype" xmlns="http://www.ni.com/PanelCommon" />
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Recommended" DataType="Double" HotSpot="15 50" ListViewHotSpot="0 35" LocalizedNameKey="sampling_2000frequency_DataItem_Name" Name="sampling frequency" PreferredDirection="Input" SideIndex="B0">
+				<CachedTypeDefinitionDependency ExportedSignature="1730754577" SourceId="376" TargetName="NI:Analysis:Filtering:filter\.gtype" xmlns="http://www.ni.com/PanelCommon" />
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Recommended" DataType="Double" HotSpot="15 50" ListViewHotSpot="0 35" LocalizedNameKey="sampling_2000frequency_DataItem_Name" Name="sampling frequency" PreferredDirection="Input" SideIndex="B0" UnitAnnotation="">
 					<p.DefaultValue>0x3FF0000000000000</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="0 25" ListViewHotSpot="0 50" LocalizedNameKey="high_2000cutoff_2000frequency_DataItem_Name" Name="high cutoff frequency" PreferredDirection="Input" SideIndex="L2">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="0 25" ListViewHotSpot="0 50" LocalizedNameKey="high_2000cutoff_2000frequency_DataItem_Name" Name="high cutoff frequency" PreferredDirection="Input" SideIndex="L2" UnitAnnotation="">
 					<p.DefaultValue>0x3FDCCCCCCCCCCCCD</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="low_2000cutoff_2000frequency_DataItem_Name" Name="low cutoff frequency" PreferredDirection="Input" SideIndex="L1">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="low_2000cutoff_2000frequency_DataItem_Name" Name="low cutoff frequency" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
 					<p.DefaultValue>0x3FC0000000000000</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="@9cbf261cf8e04e19b11f016681e2b4ee" HotSpot="0 5" ListViewHotSpot="0 140" LocalizedNameKey="filter_2000type_DataItem_Name" Name="filter type" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="@9cbf261cf8e04e19b11f016681e2b4ee" HotSpot="0 5" ListViewHotSpot="0 140" LocalizedNameKey="filter_2000type_DataItem_Name" Name="filter type" PreferredDirection="Input" SideIndex="L0">
 					<p.DefaultValue>0</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="@f36f2df0cff94400bfc76e6fe8bf72eb" HotSpot="15 0" ListViewHotSpot="0 155" LocalizedNameKey="filter_2000structure_2000option_DataItem_Name" Name="filter structure option" PreferredDirection="Input" SideIndex="T0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="@f36f2df0cff94400bfc76e6fe8bf72eb" HotSpot="15 0" ListViewHotSpot="0 155" LocalizedNameKey="filter_2000structure_2000option_DataItem_Name" Name="filter structure option" PreferredDirection="Input" SideIndex="T0">
 					<p.DefaultValue>10</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 80" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 80" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3" UnitAnnotation="">
 					<p.DefaultValue>2</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 110" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 110" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -14183,7 +14204,7 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="@b33a7e641bb94eb280d1524fc02f9f47" HotSpot="50 5" ListViewHotSpot="150 125" LocalizedNameKey="filter_DataItem_Name" Name="filter" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="@b33a7e641bb94eb280d1524fc02f9f47" HotSpot="50 5" ListViewHotSpot="150 125" LocalizedNameKey="filter_DataItem_Name" Name="filter" PreferredDirection="Output" SideIndex="R0">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>0</Field1>
@@ -14193,7 +14214,7 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 95" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 95" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -14232,14 +14253,7 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<CachedMethodCallDependency SourceId="2688" TargetName="NI:Analysis:Filtering:Filtering\ \(DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency SourceId="2720" TargetName="NI:Analysis:Support:ma_single_Check\ Time\ Signal\ Continuity\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="2815,2806" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
-				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="2794" TargetName="NI:Analysis:Filtering:filter\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
-				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="2801" TargetName="NI:Analysis:Filtering:filter\ structure\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
-				<CachedTypeDefinitionDependency ExportedSignature="694443715" SourceId="42,53" TargetName="Error\.gtype" xmlns="http://www.ni.com/PanelCommon" />
-				<CachedTypeDefinitionDependency ExportedSignature="1730754577" SourceId="2736" TargetName="NI:Analysis:Filtering:filter\.gtype" xmlns="http://www.ni.com/PanelCommon" />
-				<DataItemCacheInfo CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0">
 					<p.DefaultValue>
 						<Waveform>
 							<Timestamp>60052752000;0;Utc</Timestamp>
@@ -14254,7 +14268,7 @@
 						</Waveform>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="@b33a7e641bb94eb280d1524fc02f9f47" HotSpot="0 15" ListViewHotSpot="0 110" LocalizedNameKey="filter_DataItem_Name" Name="filter" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="@b33a7e641bb94eb280d1524fc02f9f47" HotSpot="0 15" ListViewHotSpot="0 110" LocalizedNameKey="filter_DataItem_Name" Name="filter" PreferredDirection="Input" SideIndex="L1">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>0</Field1>
@@ -14264,7 +14278,7 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 65" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 65" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -14273,10 +14287,10 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 95" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 95" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Wfm(Double)" HotSpot="50 5" ListViewHotSpot="150 50" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Wfm(Double)" HotSpot="50 5" ListViewHotSpot="150 50" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0">
 					<p.DefaultValue>
 						<Waveform>
 							<Timestamp>60052752000;0;Utc</Timestamp>
@@ -14291,7 +14305,7 @@
 						</Waveform>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 80" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 80" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -14300,6 +14314,13 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
+				<CachedMethodCallDependency ExportedSignature="1417091189" SourceId="2688" TargetName="NI:Analysis:Filtering:Filtering\ \(DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="-1889177163" SourceId="2720" TargetName="NI:Analysis:Support:ma_single_Check\ Time\ Signal\ Continuity\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="2815,2806" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
+				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="2824" TargetName="NI:Analysis:Filtering:filter\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
+				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="2831" TargetName="NI:Analysis:Filtering:filter\ structure\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
+				<CachedTypeDefinitionDependency ExportedSignature="694443715" SourceId="42,53" TargetName="Error\.gtype" xmlns="http://www.ni.com/PanelCommon" />
+				<CachedTypeDefinitionDependency ExportedSignature="1730754577" SourceId="2736" TargetName="NI:Analysis:Filtering:filter\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
@@ -14552,25 +14573,25 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Recommended" DataType="Double" HotSpot="15 50" ListViewHotSpot="0 35" LocalizedNameKey="sampling_2000frequency_DataItem_Name" Name="sampling frequency" PreferredDirection="Input" SideIndex="B0">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Recommended" DataType="Double" HotSpot="15 50" ListViewHotSpot="0 35" LocalizedNameKey="sampling_2000frequency_DataItem_Name" Name="sampling frequency" PreferredDirection="Input" SideIndex="B0" UnitAnnotation="">
 					<p.DefaultValue>0x3FF0000000000000</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="0 25" ListViewHotSpot="0 50" LocalizedNameKey="high_2000cutoff_2000frequency_DataItem_Name" Name="high cutoff frequency" PreferredDirection="Input" SideIndex="L2">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="0 25" ListViewHotSpot="0 50" LocalizedNameKey="high_2000cutoff_2000frequency_DataItem_Name" Name="high cutoff frequency" PreferredDirection="Input" SideIndex="L2" UnitAnnotation="">
 					<p.DefaultValue>0x3FDCCCCCCCCCCCCD</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="low_2000cutoff_2000frequency_DataItem_Name" Name="low cutoff frequency" PreferredDirection="Input" SideIndex="L1">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="low_2000cutoff_2000frequency_DataItem_Name" Name="low cutoff frequency" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
 					<p.DefaultValue>0x3FC0000000000000</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="@9cbf261cf8e04e19b11f016681e2b4ee" HotSpot="0 5" ListViewHotSpot="0 140" LocalizedNameKey="filter_2000type_DataItem_Name" Name="filter type" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="@9cbf261cf8e04e19b11f016681e2b4ee" HotSpot="0 5" ListViewHotSpot="0 140" LocalizedNameKey="filter_2000type_DataItem_Name" Name="filter type" PreferredDirection="Input" SideIndex="L0">
 					<p.DefaultValue>0</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="@f36f2df0cff94400bfc76e6fe8bf72eb" HotSpot="15 0" ListViewHotSpot="0 125" LocalizedNameKey="filter_2000structure_2000option_DataItem_Name" Name="filter structure option" PreferredDirection="Input" SideIndex="T0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="@f36f2df0cff94400bfc76e6fe8bf72eb" HotSpot="15 0" ListViewHotSpot="0 125" LocalizedNameKey="filter_2000structure_2000option_DataItem_Name" Name="filter structure option" PreferredDirection="Input" SideIndex="T0">
 					<p.DefaultValue>10</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 80" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 80" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3" UnitAnnotation="">
 					<p.DefaultValue>2</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 110" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 110" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -14579,7 +14600,7 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="@b33a7e641bb94eb280d1524fc02f9f47" HotSpot="50 5" ListViewHotSpot="150 155" LocalizedNameKey="filter_DataItem_Name" Name="filter" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="@b33a7e641bb94eb280d1524fc02f9f47" HotSpot="50 5" ListViewHotSpot="150 155" LocalizedNameKey="filter_DataItem_Name" Name="filter" PreferredDirection="Output" SideIndex="R0">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>0</Field1>
@@ -14589,7 +14610,7 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 95" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 95" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -14599,7 +14620,7 @@
 					</p.DefaultValue>
 				</DataItemCacheInfo>
 				<CachedMethodCallDependency ExportedSignature="-1475142368" SourceId="172" TargetName="NI:Analysis:Support:aal_Error\ Cluster\ from\ Error\ Code\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency SourceId="232" TargetName="NI:Analysis:Filtering:Select\ IIR\ Cascade\ Filter\ Structure\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="967432936" SourceId="232" TargetName="NI:Analysis:Filtering:Select\ IIR\ Cascade\ Filter\ Structure\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
 				<CachedTypeDefinitionDependency ExportedSignature="1730754577" SourceId="468,404" TargetName="NI:Analysis:Filtering:filter\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="1694700877" SourceId="469" TargetName="NI:Analysis:Filtering:filter\ structure\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedMethodCallDependency ExportedSignature="1232652390" SourceId="492" TargetName="NI:Analysis:Support:AAL\ Base\.sli:BWCoefs90" xmlns="http://www.ni.com/PlatformFramework" />
@@ -14797,8 +14818,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="690" Name=":PC:Interactive:NI:Analysis:Support:ma_time\ continuity\ checker\.gvi">
-		<DefinitionCacheUserSetting Envoy="690" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="690" Name=":PC:Interactive:NI:Analysis:Support:ma_time\ continuity\ checker\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="690" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545FDA42E5" Height="50" ListViewHeight="165" ListViewWidth="150" Reentrancy="Stateful" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -14866,8 +14887,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="691" Name=":PC:Interactive:NI:Analysis:Support:ma_basicErrorCode2ErrorCluster\.gvi">
-		<DefinitionCacheUserSetting Envoy="691" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="691" Name=":PC:Interactive:NI:Analysis:Support:ma_basicErrorCode2ErrorCluster\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="691" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545FD96FF6" Height="50" ListViewHeight="75" ListViewWidth="150" Reentrancy="Stateless" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -14984,7 +15005,7 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<CachedMethodCallDependency SourceId="226" TargetName="NI:Analysis:Filtering:Filtering\ \(CDB\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="1011075454" SourceId="226" TargetName="NI:Analysis:Filtering:Filtering\ \(CDB\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
 				<CachedMethodCallDependency ExportedSignature="-2075955195" SourceId="270" TargetName="NI:Analysis:Filtering:Butterworth\ Filter\ Design\ with\ State\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
 				<CachedTypeDefinitionDependency ExportedSignature="108788496" SourceId="271" TargetName="NI:Analysis:Filtering:Filter\ Passband\ Type\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="306,297" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
@@ -14992,8 +15013,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="696" Name=":PC:Interactive:Check\ for\ Equality\.gvi">
-		<DefinitionCacheUserSetting Envoy="696" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="696" Name=":PC:Interactive:Check\ for\ Equality\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="696" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545EC46FEC" Height="40" ListViewHeight="90" ListViewWidth="150" Reentrancy="Stateful" Width="40" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15030,8 +15051,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="697" Name=":PC:Interactive:NI:Analysis:Support:ma_Compute\ t0\ eps\ timestamp\.gvi">
-		<DefinitionCacheUserSetting Envoy="697" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="697" Name=":PC:Interactive:NI:Analysis:Support:ma_Compute\ t0\ eps\ timestamp\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="697" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545FD98323" Height="50" ListViewHeight="60" ListViewWidth="150" Reentrancy="Stateful" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15089,8 +15110,8 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="ComplexDouble[]" HotSpot="0 5" ListViewHotSpot="0 110" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="" />
-				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="@b33a7e641bb94eb280d1524fc02f9f47" HotSpot="0 15" ListViewHotSpot="0 95" LocalizedNameKey="filter_DataItem_Name" Name="filter" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="ComplexDouble[]" HotSpot="0 5" ListViewHotSpot="0 110" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" />
+				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="@b33a7e641bb94eb280d1524fc02f9f47" HotSpot="0 15" ListViewHotSpot="0 95" LocalizedNameKey="filter_DataItem_Name" Name="filter" PreferredDirection="Input" SideIndex="L1">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>0</Field1>
@@ -15100,7 +15121,7 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 35" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 35" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -15109,11 +15130,11 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 65" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 65" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="ComplexDouble[]" HotSpot="50 5" ListViewHotSpot="150 80" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="" />
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 50" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="ComplexDouble[]" HotSpot="50 5" ListViewHotSpot="150 80" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" />
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 50" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -15123,8 +15144,8 @@
 					</p.DefaultValue>
 				</DataItemCacheInfo>
 				<CachedMethodCallDependency ExportedSignature="-1475142368" SourceId="164" TargetName="NI:Analysis:Support:aal_Error\ Cluster\ from\ Error\ Code\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency SourceId="2682,2697" TargetName="NI:Analysis:Filtering:AAL\ Filtering\.sli:CxSigIIR_Filter" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency SourceId="2711" TargetName="NI:Analysis:Filtering:AAL\ Filtering\.sli:CxSigIIR_Filter2" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="-262301835" SourceId="2682,2697" TargetName="NI:Analysis:Filtering:AAL\ Filtering\.sli:CxSigIIR_Filter" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="1300000827" SourceId="2711" TargetName="NI:Analysis:Filtering:AAL\ Filtering\.sli:CxSigIIR_Filter2" xmlns="http://www.ni.com/PlatformFramework" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="2769,2760" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="2778" TargetName="NI:Analysis:Filtering:filter\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="2785" TargetName="NI:Analysis:Filtering:filter\ structure\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
@@ -15133,8 +15154,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="701" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:BesselCoefs90">
-		<DefinitionCacheUserSetting Envoy="701" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="701" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:BesselCoefs90" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="701" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="110" IsReentrant="True" ListViewHeight="335" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15178,8 +15199,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="702" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:BWCoefs90">
-		<DefinitionCacheUserSetting Envoy="702" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="702" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:BWCoefs90" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="702" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="110" IsReentrant="True" ListViewHeight="335" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15223,8 +15244,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="703" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:ChebyshevCoefs90">
-		<DefinitionCacheUserSetting Envoy="703" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="703" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:ChebyshevCoefs90" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="703" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="120" IsReentrant="True" ListViewHeight="365" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15270,8 +15291,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="704" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:CxIIR_Filter_H">
-		<DefinitionCacheUserSetting Envoy="704" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="704" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:CxIIR_Filter_H" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="704" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="90" IsReentrant="True" ListViewHeight="275" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15312,8 +15333,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="705" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:CxIIRReSig_Filter_H">
-		<DefinitionCacheUserSetting Envoy="705" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="705" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:CxIIRReSig_Filter_H" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="705" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="90" IsReentrant="True" ListViewHeight="275" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15354,8 +15375,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="706" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:EllipticCoefs90">
-		<DefinitionCacheUserSetting Envoy="706" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="706" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:EllipticCoefs90" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="706" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="130" IsReentrant="True" ListViewHeight="395" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15445,8 +15466,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="708" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:IIR_Filter">
-		<DefinitionCacheUserSetting Envoy="708" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="708" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:IIR_Filter" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="708" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="90" IsReentrant="True" ListViewHeight="275" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15487,8 +15508,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="709" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:FIRNarrowCoef_head">
-		<DefinitionCacheUserSetting Envoy="709" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="709" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:FIRNarrowCoef_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="709" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="110" IsReentrant="True" ListViewHeight="335" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15533,8 +15554,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="710" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:CxSigFIRnarrowFilter_head">
-		<DefinitionCacheUserSetting Envoy="710" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="710" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:CxSigFIRnarrowFilter_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="710" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="60" IsReentrant="True" ListViewHeight="185" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15569,8 +15590,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="711" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:FIRnarrowFilter_head">
-		<DefinitionCacheUserSetting Envoy="711" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="711" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:FIRnarrowFilter_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="711" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="60" IsReentrant="True" ListViewHeight="185" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15605,8 +15626,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="712" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:FIRCoefs">
-		<DefinitionCacheUserSetting Envoy="712" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="712" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:FIRCoefs" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="712" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="90" IsReentrant="True" ListViewHeight="275" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15688,8 +15709,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="714" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:IIR_Filter2">
-		<DefinitionCacheUserSetting Envoy="714" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="714" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:IIR_Filter2" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="714" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="90" IsReentrant="True" ListViewHeight="275" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15730,8 +15751,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="715" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:InvChebyshevCoefs90">
-		<DefinitionCacheUserSetting Envoy="715" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="715" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:InvChebyshevCoefs90" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="715" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="120" IsReentrant="True" ListViewHeight="365" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15777,8 +15798,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="716" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:MedianFilter81_H">
-		<DefinitionCacheUserSetting Envoy="716" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="716" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:MedianFilter81_H" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="716" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="50" IsReentrant="True" ListViewHeight="155" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15810,8 +15831,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="717" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:Parks">
-		<DefinitionCacheUserSetting Envoy="717" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="717" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:Parks" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="717" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="100" IsReentrant="True" ListViewHeight="305" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15854,8 +15875,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="718" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:ppMultiRateFIRH_CDB">
-		<DefinitionCacheUserSetting Envoy="718" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="718" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:ppMultiRateFIRH_CDB" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="718" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="140" IsReentrant="True" ListViewHeight="425" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15906,8 +15927,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="719" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:ppMultiRateFIRH_CSG">
-		<DefinitionCacheUserSetting Envoy="719" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="719" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:ppMultiRateFIRH_CSG" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="719" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="140" IsReentrant="True" ListViewHeight="425" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -15958,8 +15979,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="720" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:ppMultiRateFIRH_DBL">
-		<DefinitionCacheUserSetting Envoy="720" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="720" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:ppMultiRateFIRH_DBL" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="720" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="140" IsReentrant="True" ListViewHeight="425" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -16010,8 +16031,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="721" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:ppMultiRateFIRH_SGL">
-		<DefinitionCacheUserSetting Envoy="721" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="721" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:ppMultiRateFIRH_SGL" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="721" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="140" IsReentrant="True" ListViewHeight="425" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -16062,8 +16083,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="722" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:SavitzkyGolayFiltH">
-		<DefinitionCacheUserSetting Envoy="722" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="722" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:SavitzkyGolayFiltH" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="722" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="70" IsReentrant="True" ListViewHeight="215" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -16099,8 +16120,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="723" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:SavitzkyGolayCoefH">
-		<DefinitionCacheUserSetting Envoy="723" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="723" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:SavitzkyGolayCoefH" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="723" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="80" IsReentrant="True" ListViewHeight="245" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -16138,8 +16159,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="724" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:zeroPhaseCascadeFiltH">
-		<DefinitionCacheUserSetting Envoy="724" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="724" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:zeroPhaseCascadeFiltH" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="724" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="90" IsReentrant="True" ListViewHeight="275" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -16179,8 +16200,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="725" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:zeroPhaseFiltH">
-		<DefinitionCacheUserSetting Envoy="725" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="725" Name=":PC:Interactive:NI:Analysis:Filtering:AAL\ Filtering\.sli:zeroPhaseFiltH" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="725" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545EE40C1A" Height="100" IsReentrant="True" ListViewHeight="305" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -16250,21 +16271,21 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Double[]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Double[]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0">
 					<p.DefaultValue>
 						<Array Lengths="0" />
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="15 50" ListViewHotSpot="0 50" LocalizedNameKey="sampling_2000frequency_DataItem_Name" Name="sampling frequency" PreferredDirection="Input" SideIndex="B0">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Double" HotSpot="15 50" ListViewHotSpot="0 50" LocalizedNameKey="sampling_2000frequency_DataItem_Name" Name="sampling frequency" PreferredDirection="Input" SideIndex="B0" UnitAnnotation="">
 					<p.DefaultValue>0x3FF0000000000000</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="cutoff_2000frequency_DataItem_Name" Name="cutoff frequency" PreferredDirection="Input" SideIndex="L1">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="cutoff_2000frequency_DataItem_Name" Name="cutoff frequency" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
 					<p.DefaultValue>0x3FC0000000000002</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 95" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 95" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 125" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 125" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -16273,15 +16294,15 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 110" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 110" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3" UnitAnnotation="">
 					<p.DefaultValue>2</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Double[]" HotSpot="50 5" ListViewHotSpot="150 80" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Double[]" HotSpot="50 5" ListViewHotSpot="150 80" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0">
 					<p.DefaultValue>
 						<Array Lengths="0" />
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 140" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 140" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -16367,7 +16388,7 @@
 					</p.DefaultValue>
 				</DataItemCacheInfo>
 				<CachedMethodCallDependency ExportedSignature="-2075955195" SourceId="1675" TargetName="NI:Analysis:Filtering:Butterworth\ Filter\ Design\ with\ State\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency SourceId="1683" TargetName="NI:Analysis:Filtering:Filtering\ NChan\ \(DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="269809343" SourceId="1683" TargetName="NI:Analysis:Filtering:Filtering\ NChan\ \(DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
 				<CachedTypeDefinitionDependency ExportedSignature="108788496" SourceId="1690" TargetName="NI:Analysis:Filtering:Filter\ Passband\ Type\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="1733,1724" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="694443715" SourceId="135,136" TargetName="Error\.gtype" xmlns="http://www.ni.com/PanelCommon" />
@@ -16401,12 +16422,12 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Double[,]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Double[,]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0">
 					<p.DefaultValue>
 						<Array Lengths="0,0" />
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="@b33a7e641bb94eb280d1524fc02f9f47" HotSpot="0 15" ListViewHotSpot="0 110" LocalizedNameKey="filter_DataItem_Name" Name="filter" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="@b33a7e641bb94eb280d1524fc02f9f47" HotSpot="0 15" ListViewHotSpot="0 110" LocalizedNameKey="filter_DataItem_Name" Name="filter" PreferredDirection="Input" SideIndex="L1">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>0</Field1>
@@ -16416,7 +16437,7 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 65" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 65" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -16425,15 +16446,15 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 95" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 95" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Double[,]" HotSpot="50 5" ListViewHotSpot="150 50" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Double[,]" HotSpot="50 5" ListViewHotSpot="150 50" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0">
 					<p.DefaultValue>
 						<Array Lengths="0,0" />
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 80" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 80" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -16442,7 +16463,7 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<CachedMethodCallDependency SourceId="2674" TargetName="NI:Analysis:Filtering:Filtering\ with\ Initial\ Conditions\ \(DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="1994524692" SourceId="2674" TargetName="NI:Analysis:Filtering:Filtering\ with\ Initial\ Conditions\ \(DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="3268,3259" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="3277" TargetName="NI:Analysis:Filtering:filter\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="3284" TargetName="NI:Analysis:Filtering:filter\ structure\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
@@ -16561,14 +16582,14 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)[]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="" />
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="cutoff_2000frequency_DataItem_Name" Name="cutoff frequency" PreferredDirection="Input" SideIndex="L1">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)[]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" />
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Double" HotSpot="0 15" ListViewHotSpot="0 65" LocalizedNameKey="cutoff_2000frequency_DataItem_Name" Name="cutoff frequency" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
 					<p.DefaultValue>0x3FC0000000000002</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 80" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="4" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 80" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 110" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="5" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 110" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -16577,11 +16598,11 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 95" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="6" CallUsage="Recommended" DataType="Int32" HotSpot="0 35" ListViewHotSpot="0 95" LocalizedNameKey="order_DataItem_Name" Name="order" PreferredDirection="Input" SideIndex="L3" UnitAnnotation="">
 					<p.DefaultValue>2</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Wfm(Double)[]" HotSpot="50 5" ListViewHotSpot="150 50" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="" />
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 125" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Wfm(Double)[]" HotSpot="50 5" ListViewHotSpot="150 50" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" />
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 125" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -16598,8 +16619,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="733" Name=":PC:Interactive:NI:Analysis:Statistics:Mean\ \(CDB\)\.gvi">
-		<DefinitionCacheUserSetting Envoy="733" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="733" Name=":PC:Interactive:NI:Analysis:Statistics:Mean\ \(CDB\)\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="733" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545F9A5DF4" Height="50" ListViewHeight="90" ListViewWidth="150" OverloadGroup="NI:Analysis:Statistics:Mean" OverloadHelpId="NI.MocCommon:MethodCall.Mean (DBL)" Reentrancy="Stateful" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -16628,12 +16649,12 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Recommended" DataType="ComplexDouble[]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="x_DataItem_Name" Name="x" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Recommended" DataType="ComplexDouble[]" HotSpot="0 5" ListViewHotSpot="0 35" LocalizedNameKey="x_DataItem_Name" Name="x" PreferredDirection="Input" SideIndex="L0">
 					<p.DefaultValue>
 						<Array Lengths="0" />
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 65" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 65" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -16642,10 +16663,10 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="ComplexDouble" HotSpot="50 5" ListViewHotSpot="150 50" LocalizedNameKey="mean_DataItem_Name" Name="mean" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="ComplexDouble" HotSpot="50 5" ListViewHotSpot="150 50" LocalizedNameKey="mean_DataItem_Name" Name="mean" PreferredDirection="Output" SideIndex="R0">
 					<p.DefaultValue>0x0;0x0</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="2" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 80" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="2" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 80" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -16687,8 +16708,8 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)[]" HotSpot="0 5" ListViewHotSpot="0 80" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="" />
-				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="@b33a7e641bb94eb280d1524fc02f9f47" HotSpot="0 15" ListViewHotSpot="0 110" LocalizedNameKey="filter_DataItem_Name" Name="filter" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)[]" HotSpot="0 5" ListViewHotSpot="0 80" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" />
+				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="@b33a7e641bb94eb280d1524fc02f9f47" HotSpot="0 15" ListViewHotSpot="0 110" LocalizedNameKey="filter_DataItem_Name" Name="filter" PreferredDirection="Input" SideIndex="L1">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>0</Field1>
@@ -16698,7 +16719,7 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 35" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 35" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -16707,11 +16728,11 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 65" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="Boolean" HotSpot="15 0" ListViewHotSpot="0 65" LocalizedNameKey="reset_DataItem_Name" Name="reset" PreferredDirection="Input" SideIndex="T0">
 					<p.DefaultValue>False</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Wfm(Double)[]" HotSpot="50 5" ListViewHotSpot="150 95" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="" />
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 50" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Wfm(Double)[]" HotSpot="50 5" ListViewHotSpot="150 95" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" />
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 50" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -16721,8 +16742,8 @@
 					</p.DefaultValue>
 				</DataItemCacheInfo>
 				<CachedMethodCallDependency ExportedSignature="1994524692" SourceId="2832" TargetName="NI:Analysis:Filtering:Filtering\ with\ Initial\ Conditions\ \(DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency SourceId="2861" TargetName="NI:Analysis:Support:ma_array_Check\ Time\ Signal\ Continuity\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency SourceId="2865" TargetName="NI:Analysis:Support:ma_check\ equal\ dt\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="-15697890" SourceId="2861" TargetName="NI:Analysis:Support:ma_array_Check\ Time\ Signal\ Continuity\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="-472289621" SourceId="2865" TargetName="NI:Analysis:Support:ma_check\ equal\ dt\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="3665,3656" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="3674" TargetName="NI:Analysis:Filtering:filter\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="3681" TargetName="NI:Analysis:Filtering:filter\ structure\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
@@ -16876,8 +16897,8 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)[]" HotSpot="0 5" ListViewHotSpot="0 65" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="" />
-				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 35" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="Wfm(Double)[]" HotSpot="0 5" ListViewHotSpot="0 65" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" />
+				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 35" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -16886,7 +16907,7 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 50" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 50" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -16895,17 +16916,17 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Double[]" HotSpot="50 5" ListViewHotSpot="150 80" LocalizedNameKey="AC_2000value_DataItem_Name" Name="AC value" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="" />
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="2" CallUsage="Recommended" DataType="Double[]" HotSpot="50 15" ListViewHotSpot="150 95" LocalizedNameKey="DC_2000value_DataItem_Name" Name="DC value" PreferredDirection="Output" SideIndex="R1" UnitAnnotation="" />
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="3" CallUsage="Recommended" DataType="Double[]" HotSpot="50 25" ListViewHotSpot="150 110" LocalizedNameKey="RMS_2000value_DataItem_Name" Name="RMS value" PreferredDirection="Output" SideIndex="R2" UnitAnnotation="" />
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Double[]" HotSpot="50 5" ListViewHotSpot="150 80" LocalizedNameKey="AC_2000value_DataItem_Name" Name="AC value" PreferredDirection="Output" SideIndex="R0" />
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="2" CallUsage="Recommended" DataType="Double[]" HotSpot="50 15" ListViewHotSpot="150 95" LocalizedNameKey="DC_2000value_DataItem_Name" Name="DC value" PreferredDirection="Output" SideIndex="R1" />
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Output" CallIndex="3" CallUsage="Recommended" DataType="Double[]" HotSpot="50 25" ListViewHotSpot="150 110" LocalizedNameKey="RMS_2000value_DataItem_Name" Name="RMS value" PreferredDirection="Output" SideIndex="R2" />
 				<CachedMethodCallDependency ExportedSignature="-1599051323" SourceId="245" TargetName="NI:Analysis:Measurement:AC\ DC\ and\ RMS\ \(single\-shot\)\(Wfm\)\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="1002,993" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="694443715" SourceId="36,47" TargetName="Error\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="738" Name=":PC:Interactive:NI:Analysis:Statistics:RMS\ \(CDB\)\.gvi">
-		<DefinitionCacheUserSetting Envoy="738" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="738" Name=":PC:Interactive:NI:Analysis:Statistics:RMS\ \(CDB\)\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="738" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545F9CC394" Height="50" ListViewHeight="90" ListViewWidth="150" OverloadGroup="NI:Analysis:Statistics:RMS" OverloadHelpId="NI.MocCommon:MethodCall.RMS (DBL)" Reentrancy="Stateful" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -16954,14 +16975,14 @@
 					<p.DefaultValue>0x0</p.DefaultValue>
 				</DataItemCacheInfo>
 				<CachedMethodCallDependency ExportedSignature="-1475142368" SourceId="50" TargetName="NI:Analysis:Support:aal_Error\ Cluster\ from\ Error\ Code\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
-				<CachedMethodCallDependency SourceId="77" TargetName="NI:Analysis:Statistics:AAL\ Statistics\.sli:CxRMS_head" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency ExportedSignature="1182857491" SourceId="77" TargetName="NI:Analysis:Statistics:AAL\ Statistics\.sli:CxRMS_head" xmlns="http://www.ni.com/PlatformFramework" />
 				<CachedTypeDefinitionDependency ExportedSignature="0" SourceId="113,104" TargetName="Error\.gtype:ControlDefinition" xmlns="http://www.ni.com/PanelCommon" />
 				<CachedTypeDefinitionDependency ExportedSignature="694443715" SourceId="56,57" TargetName="Error\.gtype" xmlns="http://www.ni.com/PanelCommon" />
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="741" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:Anova1Way_head">
-		<DefinitionCacheUserSetting Envoy="741" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="741" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:Anova1Way_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="741" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="130" IsReentrant="True" ListViewHeight="395" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17009,8 +17030,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="742" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:Anova2Way_head">
-		<DefinitionCacheUserSetting Envoy="742" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="742" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:Anova2Way_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="742" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="130" IsReentrant="True" ListViewHeight="395" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17058,8 +17079,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="743" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:ANOVA3Way_head">
-		<DefinitionCacheUserSetting Envoy="743" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="743" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:ANOVA3Way_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="743" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="190" IsReentrant="True" ListViewHeight="575" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17119,8 +17140,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="744" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:ChiSquare_head">
-		<DefinitionCacheUserSetting Envoy="744" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="744" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:ChiSquare_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="744" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="60" IsReentrant="True" ListViewHeight="185" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17154,8 +17175,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="745" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:Contingency_head">
-		<DefinitionCacheUserSetting Envoy="745" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="745" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:Contingency_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="745" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="60" IsReentrant="True" ListViewHeight="185" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17189,8 +17210,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="746" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:FDist_head">
-		<DefinitionCacheUserSetting Envoy="746" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="746" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:FDist_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="746" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="70" IsReentrant="True" ListViewHeight="215" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17226,8 +17247,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="747" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:GenHistH">
-		<DefinitionCacheUserSetting Envoy="747" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="747" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:GenHistH" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="747" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="70" IsReentrant="True" ListViewHeight="215" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17265,8 +17286,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="748" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:InvChiSquare_head">
-		<DefinitionCacheUserSetting Envoy="748" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="748" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:InvChiSquare_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="748" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="60" IsReentrant="True" ListViewHeight="185" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17300,8 +17321,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="749" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:InvFDist_head">
-		<DefinitionCacheUserSetting Envoy="749" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="749" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:InvFDist_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="749" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="70" IsReentrant="True" ListViewHeight="215" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17337,8 +17358,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="750" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:InvNdist_head">
-		<DefinitionCacheUserSetting Envoy="750" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="750" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:InvNdist_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="750" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="50" IsReentrant="True" ListViewHeight="155" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17370,8 +17391,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="751" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:InvTdist_head">
-		<DefinitionCacheUserSetting Envoy="751" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="751" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:InvTdist_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="751" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="60" IsReentrant="True" ListViewHeight="185" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17405,8 +17426,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="752" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:Moment_head">
-		<DefinitionCacheUserSetting Envoy="752" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="752" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:Moment_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="752" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="60" IsReentrant="True" ListViewHeight="185" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17440,8 +17461,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="753" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:MSE_head">
-		<DefinitionCacheUserSetting Envoy="753" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="753" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:MSE_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="753" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="60" IsReentrant="True" ListViewHeight="185" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17475,8 +17496,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="754" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:NormDist_head">
-		<DefinitionCacheUserSetting Envoy="754" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="754" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:NormDist_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="754" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="40" IsReentrant="True" ListViewHeight="145" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17506,8 +17527,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="755" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:CxRMS_head">
-		<DefinitionCacheUserSetting Envoy="755" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="755" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:CxRMS_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="755" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="40" IsReentrant="True" ListViewHeight="145" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17527,18 +17548,18 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="ComplexDouble[]" HotSpot="0 15" ListViewHotSpot="0 80" LocalizedNameKey="" Name="xH in" PreferredDirection="Input" SideIndex="L1" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Double" HotSpot="0 25" ListViewHotSpot="0 110" LocalizedNameKey="" Name="rms in" PreferredDirection="Input" SideIndex="L2" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Error" HotSpot="0 35" ListViewHotSpot="0 35" LocalizedNameKey="" Name="error in" PreferredDirection="Input" SideIndex="L3" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 5" ListViewHotSpot="150 65" LocalizedNameKey="" Name="return type" PreferredDirection="Output" SideIndex="R0" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="ComplexDouble[]" HotSpot="40 15" ListViewHotSpot="150 95" LocalizedNameKey="" Name="xH out" PreferredDirection="Output" SideIndex="R1" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Double" HotSpot="40 25" ListViewHotSpot="150 125" LocalizedNameKey="" Name="rms out" PreferredDirection="Output" SideIndex="R2" />
-				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Error" HotSpot="40 35" ListViewHotSpot="150 50" LocalizedNameKey="" Name="error out" PreferredDirection="Output" SideIndex="R3" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="ComplexDouble[]" HotSpot="0 15" ListViewHotSpot="0 80" Name="xH in" PreferredDirection="Input" SideIndex="L1" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Double" HotSpot="0 25" ListViewHotSpot="0 110" Name="rms in" PreferredDirection="Input" SideIndex="L2" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Input" CallUsage="Recommended" DataType="Error" HotSpot="0 35" ListViewHotSpot="0 35" Name="error in" PreferredDirection="Input" SideIndex="L3" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Int32" HotSpot="40 5" ListViewHotSpot="150 65" Name="return type" PreferredDirection="Output" SideIndex="R0" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="ComplexDouble[]" HotSpot="40 15" ListViewHotSpot="150 95" Name="xH out" PreferredDirection="Output" SideIndex="R1" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Double" HotSpot="40 25" ListViewHotSpot="150 125" Name="rms out" PreferredDirection="Output" SideIndex="R2" />
+				<SharedLibraryDiagramParameterCacheInfo CallDirection="Output" CallUsage="Recommended" DataType="Error" HotSpot="40 35" ListViewHotSpot="150 50" Name="error out" PreferredDirection="Output" SideIndex="R3" />
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="756" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:RMS_head">
-		<DefinitionCacheUserSetting Envoy="756" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="756" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:RMS_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="756" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="50" IsReentrant="True" ListViewHeight="155" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17570,8 +17591,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="757" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:TDist_head">
-		<DefinitionCacheUserSetting Envoy="757" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="757" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:TDist_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="757" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="60" IsReentrant="True" ListViewHeight="185" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17605,8 +17626,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="758" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:histgran_head">
-		<DefinitionCacheUserSetting Envoy="758" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="758" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:histgran_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="758" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="70" IsReentrant="True" ListViewHeight="215" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17642,8 +17663,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="759" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:Mean_head">
-		<DefinitionCacheUserSetting Envoy="759" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="759" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:Mean_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="759" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="50" IsReentrant="True" ListViewHeight="155" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17675,8 +17696,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="760" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:Median_head">
-		<DefinitionCacheUserSetting Envoy="760" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="760" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:Median_head" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="760" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="50" IsReentrant="True" ListViewHeight="155" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17708,8 +17729,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="761" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:ModeH">
-		<DefinitionCacheUserSetting Envoy="761" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="761" Name=":PC:Interactive:NI:Analysis:Statistics:AAL\ Statistics\.sli:ModeH" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="761" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F98F19D" Height="50" IsReentrant="True" ListViewHeight="155" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17741,8 +17762,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="762" Name=":PC:Interactive:NI:Analysis:Filtering:Filtering\ with\ Initial\ Conditions\ \(CDB\)\.gvi">
-		<DefinitionCacheUserSetting Envoy="762" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="762" Name=":PC:Interactive:NI:Analysis:Filtering:Filtering\ with\ Initial\ Conditions\ \(CDB\)\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="762" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545EFA84D6" Height="50" ListViewHeight="135" ListViewWidth="150" OverloadGroup="NI:Analysis:Filtering:Filtering with Initial Conditions" OverloadHelpId="NI.MocCommon:MethodCall.Filtering with Initial Conditions (DBL)" Reentrancy="Stateful" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17768,8 +17789,8 @@
 						</MergeItem>
 					</MergeScript>
 				</p.IconModel>
-				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="ComplexDouble[]" HotSpot="0 5" ListViewHotSpot="0 125" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" UnitAnnotation="" />
-				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="@b33a7e641bb94eb280d1524fc02f9f47" HotSpot="0 15" ListViewHotSpot="0 110" LocalizedNameKey="filter_DataItem_Name" Name="filter" PreferredDirection="Input" SideIndex="L1" UnitAnnotation="">
+				<DataItemCacheInfo AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="ComplexDouble[]" HotSpot="0 5" ListViewHotSpot="0 125" LocalizedNameKey="signal_DataItem_Name" Name="signal" PreferredDirection="Input" SideIndex="L0" />
+				<DataItemCacheInfo CallDirection="Input" CallIndex="1" CallUsage="Recommended" DataType="@b33a7e641bb94eb280d1524fc02f9f47" HotSpot="0 15" ListViewHotSpot="0 110" LocalizedNameKey="filter_DataItem_Name" Name="filter" PreferredDirection="Input" SideIndex="L1">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>0</Field1>
@@ -17779,7 +17800,7 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 35" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="2" CallUsage="Recommended" DataType="Error" HotSpot="0 45" ListViewHotSpot="0 35" LocalizedNameKey="error_2000in_DataItem_Name" Name="error in" PreferredDirection="Input" SideIndex="L4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -17788,15 +17809,15 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="@e8ae382ecf7742ba8f2934be9ec65216" HotSpot="0 25" ListViewHotSpot="0 80" LocalizedNameKey="initial_2000conditions_DataItem_Name" Name="initial conditions" PreferredDirection="Input" SideIndex="L2" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Input" CallIndex="3" CallUsage="Recommended" DataType="@e8ae382ecf7742ba8f2934be9ec65216" HotSpot="0 25" ListViewHotSpot="0 80" LocalizedNameKey="initial_2000conditions_DataItem_Name" Name="initial conditions" PreferredDirection="Input" SideIndex="L2">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>null</Field1>
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="ComplexDouble[]" HotSpot="50 5" ListViewHotSpot="150 65" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" UnitAnnotation="" />
-				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 50" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="0" CallUsage="Recommended" DataType="ComplexDouble[]" HotSpot="50 5" ListViewHotSpot="150 65" LocalizedNameKey="filtered_2000signal_DataItem_Name" Name="filtered signal" PreferredDirection="Output" SideIndex="R0" />
+				<DataItemCacheInfo CallDirection="Output" CallIndex="1" CallUsage="Recommended" DataType="Error" HotSpot="50 45" ListViewHotSpot="150 50" LocalizedNameKey="error_2000out_DataItem_Name" Name="error out" PreferredDirection="Output" SideIndex="R4">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>False</Field1>
@@ -17805,7 +17826,7 @@
 						</Cluster>
 					</p.DefaultValue>
 				</DataItemCacheInfo>
-				<DataItemCacheInfo CallDirection="Output" CallIndex="2" CallUsage="Recommended" DataType="@e8ae382ecf7742ba8f2934be9ec65216" HotSpot="50 25" ListViewHotSpot="150 95" LocalizedNameKey="final_2000conditions_DataItem_Name" Name="final conditions" PreferredDirection="Output" SideIndex="R2" UnitAnnotation="">
+				<DataItemCacheInfo CallDirection="Output" CallIndex="2" CallUsage="Recommended" DataType="@e8ae382ecf7742ba8f2934be9ec65216" HotSpot="50 25" ListViewHotSpot="150 95" LocalizedNameKey="final_2000conditions_DataItem_Name" Name="final conditions" PreferredDirection="Output" SideIndex="R2">
 					<p.DefaultValue>
 						<Cluster>
 							<Field1>null</Field1>
@@ -17823,8 +17844,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="766" Name=":PC:Interactive:NI:Analysis:Operations:\1D\ Auto\ Correlation\ \(Wfm\)\.gvi">
-		<DefinitionCacheUserSetting Envoy="766" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="766" Name=":PC:Interactive:NI:Analysis:Operations:\1D\ Auto\ Correlation\ \(Wfm\)\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="766" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545FCD13F5" Height="50" ListViewHeight="105" ListViewWidth="150" Reentrancy="Stateful" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17909,8 +17930,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="767" Name=":PC:Interactive:NI:Analysis:Operations:\1D\ Auto\ Correlation\ \(DBL\)\.gvi">
-		<DefinitionCacheUserSetting Envoy="767" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="767" Name=":PC:Interactive:NI:Analysis:Operations:\1D\ Auto\ Correlation\ \(DBL\)\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="767" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545FCD2722" Height="50" ListViewHeight="105" ListViewWidth="150" Reentrancy="Stateful" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -17968,8 +17989,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="768" Name=":PC:Interactive:ni579x\ Route\ Signal\.gvi">
-		<DefinitionCacheUserSetting Envoy="768" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="768" Name=":PC:Interactive:ni579x\ Route\ Signal\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="768" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D25445CA50AE" Height="50" ListViewHeight="120" ListViewWidth="150" Reentrancy="Stateless" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18032,8 +18053,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="769" Name=":PC:Interactive:Current\ VIs\ Path\.gvi">
-		<DefinitionCacheUserSetting Envoy="769" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="769" Name=":PC:Interactive:Current\ VIs\ Path\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="769" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545E87E9E4" Height="30" ListViewHeight="45" ListViewWidth="150" Width="30" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18067,8 +18088,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="770" Name=":PC:Interactive:ni579x\ Send\ User\ Command\.gvi">
-		<DefinitionCacheUserSetting Envoy="770" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="770" Name=":PC:Interactive:ni579x\ Send\ User\ Command\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="770" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D25445CA174B" Height="50" ListViewHeight="210" ListViewWidth="150" Reentrancy="Stateless" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18150,8 +18171,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="771" Name=":PC:Interactive:niInstr\ Register\ Bus\ v0\ Host\.lvlib__Read\ Register\.gvi">
-		<DefinitionCacheUserSetting Envoy="771" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="771" Name=":PC:Interactive:niInstr\ Register\ Bus\ v0\ Host\.lvlib__Read\ Register\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="771" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D25486187FE9" Height="50" ListViewHeight="135" ListViewWidth="150" Reentrancy="Stateless" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18216,8 +18237,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="772" Name=":PC:Interactive:niInstr\ Register\ Bus\ v0\ Host\.lvlib__Write\ Register\.gvi">
-		<DefinitionCacheUserSetting Envoy="772" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="772" Name=":PC:Interactive:niInstr\ Register\ Bus\ v0\ Host\.lvlib__Write\ Register\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="772" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D25486198D07" Height="50" ListViewHeight="135" ListViewWidth="150" Reentrancy="Stateless" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18282,8 +18303,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="773" Name=":PC:Interactive:niInstr\ Register\ Bus\ v0\ Host\.lvlib__Write\ Register\ Array\.gvi">
-		<DefinitionCacheUserSetting Envoy="773" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="773" Name=":PC:Interactive:niInstr\ Register\ Bus\ v0\ Host\.lvlib__Write\ Register\ Array\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="773" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D254861AE709" Height="50" ListViewHeight="135" ListViewWidth="150" Reentrancy="Stateless" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18352,8 +18373,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="774" Name=":PC:Interactive:niInstr\ Register\ Bus\ v0\ Host\.lvlib__Read\ Register\ Array\.gvi">
-		<DefinitionCacheUserSetting Envoy="774" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="774" Name=":PC:Interactive:niInstr\ Register\ Bus\ v0\ Host\.lvlib__Read\ Register\ Array\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="774" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2548618B994" Height="50" ListViewHeight="135" ListViewWidth="150" Reentrancy="Stateless" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18424,8 +18445,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="775" Name=":PC:Interactive:niInstr\ Register\ Bus\ v0\ Host\.lvlib__Encode\ Instruction\.gvi">
-		<DefinitionCacheUserSetting Envoy="775" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="775" Name=":PC:Interactive:niInstr\ Register\ Bus\ v0\ Host\.lvlib__Encode\ Instruction\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="775" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D25486175F92" Height="50" ListViewHeight="120" ListViewWidth="150" Reentrancy="Stateless" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18468,8 +18489,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="776" Name=":PC:Interactive:niInstr\ Register\ Bus\ v0\ Host\.lvlib__Read\ Notify\ Host\ Cmd\.gvi">
-		<DefinitionCacheUserSetting Envoy="776" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="776" Name=":PC:Interactive:niInstr\ Register\ Bus\ v0\ Host\.lvlib__Read\ Notify\ Host\ Cmd\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="776" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D25486187FE9" Height="50" ListViewHeight="135" ListViewWidth="150" Reentrancy="Stateless" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18530,8 +18551,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="777" Name=":PC:Interactive:Read\ Error\ Code\.gvi">
-		<DefinitionCacheUserSetting Envoy="777" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="777" Name=":PC:Interactive:Read\ Error\ Code\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="777" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545E7EFFF9" Height="40" ListViewHeight="60" ListViewWidth="150" Reentrancy="Stateless" Width="40" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18570,8 +18591,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="778" Name=":PC:Interactive:niInstr\ Register\ Bus\ v0\ Host\.lvlib__Read\ Host\ Register\ Read\ Cmd\.gvi">
-		<DefinitionCacheUserSetting Envoy="778" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="778" Name=":PC:Interactive:niInstr\ Register\ Bus\ v0\ Host\.lvlib__Read\ Host\ Register\ Read\ Cmd\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="778" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2548618CCCD" Height="50" ListViewHeight="150" ListViewWidth="150" Reentrancy="Stateless" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18635,8 +18656,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="779" Name=":PC:Interactive:niInstr\ Register\ Bus\ v0\ Host\.lvlib__Error\ Handler\.gvi">
-		<DefinitionCacheUserSetting Envoy="779" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="779" Name=":PC:Interactive:niInstr\ Register\ Bus\ v0\ Host\.lvlib__Error\ Handler\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="779" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2548617993D" Height="50" ListViewHeight="90" ListViewWidth="150" Reentrancy="Stateless" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18688,8 +18709,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="780" Name=":PC:Interactive:Error\ Cluster\ From\ Error\ Code\.gvi">
-		<DefinitionCacheUserSetting Envoy="780" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="780" Name=":PC:Interactive:Error\ Cluster\ From\ Error\ Code\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="780" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545E805923" Height="40" ListViewHeight="120" ListViewWidth="150" Reentrancy="Stateless" Width="40" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18743,8 +18764,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="784" Name=":PC:Interactive:NI:Analysis:Operations:\1D\ Auto\ Correlation\ \(CDB\)\.gvi">
-		<DefinitionCacheUserSetting Envoy="784" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="784" Name=":PC:Interactive:NI:Analysis:Operations:\1D\ Auto\ Correlation\ \(CDB\)\.gvi" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="784" Target="Envoy">
 			<FunctionDefinitionSignatureCache CacheSignature="1D1D2545F772956" Height="50" ListViewHeight="105" ListViewWidth="150" Reentrancy="Stateful" Width="50" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18801,8 +18822,8 @@
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="787" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:CxConvolution">
-		<DefinitionCacheUserSetting Envoy="787" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="787" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:CxConvolution" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="787" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F78BC07" Height="80" IsReentrant="True" ListViewHeight="245" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18840,8 +18861,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="788" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:AutoCorrelation80">
-		<DefinitionCacheUserSetting Envoy="788" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="788" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:AutoCorrelation80" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="788" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F78BC07" Height="50" IsReentrant="True" ListViewHeight="155" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18873,8 +18894,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="789" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:Convolution">
-		<DefinitionCacheUserSetting Envoy="789" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="789" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:Convolution" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="789" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F78BC07" Height="70" IsReentrant="True" ListViewHeight="215" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18910,8 +18931,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="790" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:Rxy80">
-		<DefinitionCacheUserSetting Envoy="790" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="790" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:Rxy80" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="790" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F78BC07" Height="80" IsReentrant="True" ListViewHeight="245" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18949,8 +18970,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="791" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:CxCorrelation_2DH">
-		<DefinitionCacheUserSetting Envoy="791" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="791" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:CxCorrelation_2DH" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="791" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F78BC07" Height="60" IsReentrant="True" ListViewHeight="185" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -18984,8 +19005,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="792" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:Correlation_2DH">
-		<DefinitionCacheUserSetting Envoy="792" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="792" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:Correlation_2DH" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="792" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F78BC07" Height="60" IsReentrant="True" ListViewHeight="185" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -19019,8 +19040,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="793" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:CxConvolve_2DH">
-		<DefinitionCacheUserSetting Envoy="793" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="793" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:CxConvolve_2DH" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="793" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F78BC07" Height="70" IsReentrant="True" ListViewHeight="215" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -19056,8 +19077,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="794" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:Convolve_2DH">
-		<DefinitionCacheUserSetting Envoy="794" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="794" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:Convolve_2DH" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="794" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F78BC07" Height="70" IsReentrant="True" ListViewHeight="215" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -19093,8 +19114,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="795" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:CxAutoCorrMtrxH">
-		<DefinitionCacheUserSetting Envoy="795" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="795" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:CxAutoCorrMtrxH" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="795" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F78BC07" Height="100" IsReentrant="True" ListViewHeight="305" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -19136,8 +19157,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="796" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:AutoCorrMtrxH">
-		<DefinitionCacheUserSetting Envoy="796" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="796" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:AutoCorrMtrxH" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="796" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F78BC07" Height="100" IsReentrant="True" ListViewHeight="305" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -19179,8 +19200,8 @@
 			</SharedLibraryEntryPointSignatureCache>
 		</DefinitionCacheUserSetting>
 	</UserSettingsDefinition>
-	<UserSettingsDefinition Envoy="797" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:Deconvolution">
-		<DefinitionCacheUserSetting Envoy="797" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
+	<UserSettingsDefinition Envoy="797" Name=":PC:Interactive:NI:Analysis:Operations:AAL\ Operations\.sli:Deconvolution" xmlns="http://www.ni.com/PlatformFramework">
+		<DefinitionCacheUserSetting Envoy="797" Target="Envoy">
 			<SharedLibraryEntryPointSignatureCache CacheSignature="1D1D2545F78BC07" Height="50" IsReentrant="True" ListViewHeight="155" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/ExtCodeInterface">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
@@ -19214,7 +19235,7 @@
 	</UserSettingsDefinition>
 	<UserSettingsDefinition Envoy="798" Name=":PC:Interactive:FMTopLevel\.gvi">
 		<DefinitionCacheUserSetting Envoy="798" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
-			<FunctionDefinitionSignatureCache CacheSignature="1D27E04E9D02448" Height="40" ListViewHeight="40" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/MocCommon">
+			<FunctionDefinitionSignatureCache CacheSignature="1D282129D189EC0" Height="40" ListViewHeight="40" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/MocCommon">
 				<p.IconModel>
 					<MergeScript xmlns="http://www.ni.com/PlatformFramework">
 						<MergeItem Path="." IsPrimary="True">
@@ -19235,11 +19256,12 @@
 				</p.IconModel>
 				<CachedMethodCallDependency SourceId="15" TargetName="FMDemodulator\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
 				<CachedMethodCallDependency SourceId="16" TargetName="FM_Modulator\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
+				<CachedMethodCallDependency SourceId="931" TargetName="NI:Analysis:Measurement:Power\ Spectral\ Density\ for\ 1\ Chan\.gvi" xmlns="http://www.ni.com/PlatformFramework" />
 			</FunctionDefinitionSignatureCache>
 		</DefinitionCacheUserSetting>
 		<ScrollAndZoomSettingCache Envoy="798" Target="Envoy" xmlns="http://www.ni.com/PlatformFramework">
 			<ScrollAndZoomEditor EditorName="VIPanelControl" ScrollHorizontalOffset="0" ScrollVerticalOffset="0" Zoom="1" />
-			<ScrollAndZoomEditor EditorName="VIDiagramControl" ScrollHorizontalOffset="-73.333335876464844" ScrollVerticalOffset="-154" Zoom="1.5" />
+			<ScrollAndZoomEditor EditorName="VIDiagramControl" ScrollHorizontalOffset="2" ScrollVerticalOffset="-118" Zoom="1.25" />
 		</ScrollAndZoomSettingCache>
 	</UserSettingsDefinition>
 	<DataTypeReferenceTable>
@@ -19972,15 +19994,19 @@
 				</AttributeValues>
 			</Attributed>
 		</p.TypeReference>
-		<p.TypeReference TypeId="db862af61747465ca670cdaa4fd83e52">
-			<Attributed>
-				<AttributedType>
-					<Typedef TypedefName="Band Parameters.gtype" UnderlyingType="@a8e771710f0347fda0f7b65f3a9cb15d" />
-				</AttributedType>
-				<AttributeValues>
-					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Filtering" />
-				</AttributeValues>
-			</Attributed>
+		<p.TypeReference TypeId="a8e771710f0347fda0f7b65f3a9cb15d">
+			<VariableArray>
+				<DereferenceType>
+					<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+						<Members>
+							<Field FieldAccessPolicy="ReadWrite" Name="amplitude" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="lower freq" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="higher freq" DataType="Double" />
+							<Field FieldAccessPolicy="ReadWrite" Name="weighted ripple" DataType="Double" />
+						</Members>
+					</Composite>
+				</DereferenceType>
+			</VariableArray>
 		</p.TypeReference>
 		<p.TypeReference TypeId="699e7be5c9a54e04af791827b17e2094">
 			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
@@ -20016,93 +20042,8 @@
 				</DataType>
 			</Enumeration>
 		</p.TypeReference>
-		<p.TypeReference TypeId="903bd74ac57b4d7e960295bd5bdb4348">
-			<Attributed>
-				<AttributedType>
-					<Composite Id="1" Name="NationalInstruments.SourceModel.DataTypes.Queue" ReferenceClass="">
-						<GenericTypeDefinition>
-							<Attributed>
-								<AttributedType>
-									<Composite Id="2" Name="NationalInstruments.SourceModel.DataTypes.Queue" ReferenceClass="">
-										<GenericTypeDefinition>
-											<Composite RefId="2" />
-										</GenericTypeDefinition>
-										<GenericParameters>
-											<Typedef TypedefName="DataType" UnderlyingType="@925e7625a0874ce68843f019a6e36348" />
-										</GenericParameters>
-										<BaseType>
-											<Void />
-										</BaseType>
-									</Composite>
-								</AttributedType>
-								<AttributeValues>
-									<AttributeValue Name="NI_PlatformFramework_RefnumAttributes" Value="[NI_PlatformFramework_RefnumAttributes]Refnum" />
-								</AttributeValues>
-							</Attributed>
-						</GenericTypeDefinition>
-						<ClosedGenericParameters>
-							<Composite Id="3" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-								<Members>
-									<Field FieldAccessPolicy="ReadWrite" Name="fpga ref">
-										<DataType>
-											<Attributed>
-												<AttributedType>
-													<Generic>
-														<Constraints>
-															<Composite Id="4" Name="IFPGAReferenceDataType" ReferenceClass="" Interface="" GenericTypeDefinition="Void" BaseType="Void" />
-														</Constraints>
-													</Generic>
-												</AttributedType>
-												<AttributeValues>
-													<AttributeValue Name="NI_PlatformFramework_RefnumAttributes" Value="[NI_PlatformFramework_RefnumAttributes]Refnum" />
-													<AttributeValue Name="NI_UdrClass" Value="[string]Interface" />
-													<AttributeValue Name="NI_UdrNamespace" Value="[string]FPGA" />
-												</AttributeValues>
-											</Attributed>
-										</DataType>
-									</Field>
-									<Field FieldAccessPolicy="ReadWrite" Name="bus instance" DataType="UInt32" />
-									<Field FieldAccessPolicy="ReadWrite" Name="instruction FIFO depth" DataType="UInt32" />
-									<Field FieldAccessPolicy="ReadWrite" Name="executing on FPGA target" DataType="Boolean" />
-									<Field FieldAccessPolicy="ReadWrite" Name="show error call chain" DataType="Boolean" />
-								</Members>
-							</Composite>
-						</ClosedGenericParameters>
-						<BaseType>
-							<Void />
-						</BaseType>
-					</Composite>
-				</AttributedType>
-				<AttributeValues>
-					<AttributeValue Name="NI_PlatformFramework_RefnumAttributes" Value="[NI_PlatformFramework_RefnumAttributes]Refnum" />
-				</AttributeValues>
-			</Attributed>
-		</p.TypeReference>
-		<p.TypeReference TypeId="ccf61d17d6d748fbac129d44fe8910a0">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="User Data 0" DataType="UInt8" />
-					<Field FieldAccessPolicy="ReadWrite" Name="User Data 1" DataType="UInt8" />
-					<Field FieldAccessPolicy="ReadWrite" Name="User Command ID" DataType="UInt8" />
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="7d5ac41beed545dfaf3d3d74a3275183">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="subsystem" DataType="UInt8" />
-					<Field FieldAccessPolicy="ReadWrite" Name="address" DataType="UInt16" />
-				</Members>
-			</Composite>
-		</p.TypeReference>
-		<p.TypeReference TypeId="d259c0bccfcb48cfacf6d4d3d0b5bab9">
-			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-				<Members>
-					<Field FieldAccessPolicy="ReadWrite" Name="subsystem" DataType="UInt8" />
-					<Field FieldAccessPolicy="ReadWrite" Name="address" DataType="UInt16" />
-					<Field FieldAccessPolicy="ReadWrite" Name="data" DataType="UInt32" />
-				</Members>
-			</Composite>
+		<p.TypeReference TypeId="925e7625a0874ce68843f019a6e36348">
+			<Generic />
 		</p.TypeReference>
 		<p.TypeReference TypeId="f5530db42b5b43fb9c732c8bc8f22749">
 			<VariableArray>
@@ -20128,22 +20069,6 @@
 					</Composite>
 				</DereferenceType>
 			</VariableArray>
-		</p.TypeReference>
-		<p.TypeReference TypeId="764f55781ee3411ba78f5de27ffb4274">
-			<Attributed>
-				<AttributedType>
-					<Generic>
-						<Constraints>
-							<Composite Id="1" Name="IFPGAReferenceDataType" ReferenceClass="" Interface="" GenericTypeDefinition="Void" BaseType="Void" />
-						</Constraints>
-					</Generic>
-				</AttributedType>
-				<AttributeValues>
-					<AttributeValue Name="NI_PlatformFramework_RefnumAttributes" Value="[NI_PlatformFramework_RefnumAttributes]Refnum" />
-					<AttributeValue Name="NI_UdrClass" Value="[string]Interface" />
-					<AttributeValue Name="NI_UdrNamespace" Value="[string]FPGA" />
-				</AttributeValues>
-			</Attributed>
 		</p.TypeReference>
 		<p.TypeReference TypeId="59a013fb4bd141488a7dc2113099d11b">
 			<Enumeration>
@@ -20234,22 +20159,119 @@
 				</Members>
 			</Composite>
 		</p.TypeReference>
-		<p.TypeReference TypeId="a8e771710f0347fda0f7b65f3a9cb15d">
-			<VariableArray>
-				<DereferenceType>
-					<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
-						<Members>
-							<Field FieldAccessPolicy="ReadWrite" Name="amplitude" DataType="Double" />
-							<Field FieldAccessPolicy="ReadWrite" Name="lower freq" DataType="Double" />
-							<Field FieldAccessPolicy="ReadWrite" Name="higher freq" DataType="Double" />
-							<Field FieldAccessPolicy="ReadWrite" Name="weighted ripple" DataType="Double" />
-						</Members>
-					</Composite>
-				</DereferenceType>
-			</VariableArray>
+		<p.TypeReference TypeId="db862af61747465ca670cdaa4fd83e52">
+			<Attributed>
+				<AttributedType>
+					<Typedef TypedefName="Band Parameters.gtype" UnderlyingType="@a8e771710f0347fda0f7b65f3a9cb15d" />
+				</AttributedType>
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]NI:Analysis:Filtering" />
+				</AttributeValues>
+			</Attributed>
 		</p.TypeReference>
-		<p.TypeReference TypeId="925e7625a0874ce68843f019a6e36348">
-			<Generic />
+		<p.TypeReference TypeId="903bd74ac57b4d7e960295bd5bdb4348">
+			<Attributed>
+				<AttributedType>
+					<Composite Id="1" Name="NationalInstruments.SourceModel.DataTypes.Queue" ReferenceClass="">
+						<GenericTypeDefinition>
+							<Attributed>
+								<AttributedType>
+									<Composite Id="2" Name="NationalInstruments.SourceModel.DataTypes.Queue" ReferenceClass="">
+										<GenericTypeDefinition>
+											<Composite RefId="2" />
+										</GenericTypeDefinition>
+										<GenericParameters>
+											<Typedef TypedefName="DataType" UnderlyingType="@925e7625a0874ce68843f019a6e36348" />
+										</GenericParameters>
+										<BaseType>
+											<Void />
+										</BaseType>
+									</Composite>
+								</AttributedType>
+								<AttributeValues>
+									<AttributeValue Name="NI_PlatformFramework_RefnumAttributes" Value="[NI_PlatformFramework_RefnumAttributes]Refnum" />
+								</AttributeValues>
+							</Attributed>
+						</GenericTypeDefinition>
+						<ClosedGenericParameters>
+							<Composite Id="3" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+								<Members>
+									<Field FieldAccessPolicy="ReadWrite" Name="fpga ref">
+										<DataType>
+											<Attributed>
+												<AttributedType>
+													<Generic>
+														<Constraints>
+															<Composite Id="4" Name="IFPGAReferenceDataType" ReferenceClass="" Interface="" GenericTypeDefinition="Void" BaseType="Void" />
+														</Constraints>
+													</Generic>
+												</AttributedType>
+												<AttributeValues>
+													<AttributeValue Name="NI_PlatformFramework_RefnumAttributes" Value="[NI_PlatformFramework_RefnumAttributes]Refnum" />
+													<AttributeValue Name="NI_UdrClass" Value="[string]Interface" />
+													<AttributeValue Name="NI_UdrNamespace" Value="[string]FPGA" />
+												</AttributeValues>
+											</Attributed>
+										</DataType>
+									</Field>
+									<Field FieldAccessPolicy="ReadWrite" Name="bus instance" DataType="UInt32" />
+									<Field FieldAccessPolicy="ReadWrite" Name="instruction FIFO depth" DataType="UInt32" />
+									<Field FieldAccessPolicy="ReadWrite" Name="executing on FPGA target" DataType="Boolean" />
+									<Field FieldAccessPolicy="ReadWrite" Name="show error call chain" DataType="Boolean" />
+								</Members>
+							</Composite>
+						</ClosedGenericParameters>
+						<BaseType>
+							<Void />
+						</BaseType>
+					</Composite>
+				</AttributedType>
+				<AttributeValues>
+					<AttributeValue Name="NI_PlatformFramework_RefnumAttributes" Value="[NI_PlatformFramework_RefnumAttributes]Refnum" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="ccf61d17d6d748fbac129d44fe8910a0">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="User Data 0" DataType="UInt8" />
+					<Field FieldAccessPolicy="ReadWrite" Name="User Data 1" DataType="UInt8" />
+					<Field FieldAccessPolicy="ReadWrite" Name="User Command ID" DataType="UInt8" />
+				</Members>
+			</Composite>
+		</p.TypeReference>
+		<p.TypeReference TypeId="7d5ac41beed545dfaf3d3d74a3275183">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="subsystem" DataType="UInt8" />
+					<Field FieldAccessPolicy="ReadWrite" Name="address" DataType="UInt16" />
+				</Members>
+			</Composite>
+		</p.TypeReference>
+		<p.TypeReference TypeId="d259c0bccfcb48cfacf6d4d3d0b5bab9">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="subsystem" DataType="UInt8" />
+					<Field FieldAccessPolicy="ReadWrite" Name="address" DataType="UInt16" />
+					<Field FieldAccessPolicy="ReadWrite" Name="data" DataType="UInt32" />
+				</Members>
+			</Composite>
+		</p.TypeReference>
+		<p.TypeReference TypeId="764f55781ee3411ba78f5de27ffb4274">
+			<Attributed>
+				<AttributedType>
+					<Generic>
+						<Constraints>
+							<Composite Id="1" Name="IFPGAReferenceDataType" ReferenceClass="" Interface="" GenericTypeDefinition="Void" BaseType="Void" />
+						</Constraints>
+					</Generic>
+				</AttributedType>
+				<AttributeValues>
+					<AttributeValue Name="NI_PlatformFramework_RefnumAttributes" Value="[NI_PlatformFramework_RefnumAttributes]Refnum" />
+					<AttributeValue Name="NI_UdrClass" Value="[string]Interface" />
+					<AttributeValue Name="NI_UdrNamespace" Value="[string]FPGA" />
+				</AttributeValues>
+			</Attributed>
 		</p.TypeReference>
 	</DataTypeReferenceTable>
 </SourceFile>

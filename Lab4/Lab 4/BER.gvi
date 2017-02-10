@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="81A578360CE2DF195156B0B4D17844F7" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="C9080C7F58514AE84A56A5EABAB081E3" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="C" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/CCode" Version="4.5.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="4.5.2.51305" FeatureSetName="LabVIEW Controls" MinimumParsableVersion="4.5.0.0" MinimumSemanticallyEquivalentVersion="4.5.0.0" Name="http://www.ni.com/Controls.LabVIEW.Design" Version="4.5.0.49153" />
@@ -50,12 +50,12 @@
 			<NumericText BaseName="[string]Numeric" Height="[float]22" Id="41" InteractionMode="[NumericTextBoxInteractionModes]ReadOnly" Left="[float]0" MinHeight="[float]22" Name="[string]BER" Top="[float]0" Value="{DataItemBinding Id=38}" ValueFormatter="[string]LV:G6" ValueType="[Type]Double" Width="[float]70" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 		</FrontPanelUnplacedItems>
 		<BlockDiagram Id="13">
-			<CCodeNode Bounds="435 215 400 235" DocumentText="&quot;int i;\r\ndouble count=0;\r\n\r\nfor(i=0; i&lt;length; i++){\r\n \r\n    if(received_bits[i]!=transmitted_bits[i]){\r\n        \r\n        count++;\r\n    }\r\n}\r\n\r\nBER=count/length;&quot;" Id="15" OutliningMode="Automatic" xmlns="http://www.ni.com/CCode">
+			<CCodeNode Bounds="445 215 400 235" DocumentText="&quot;int i;\r\ndouble count=0;\r\n\r\nfor(i=0; i&lt;length; i++){\r\n \r\n    if(received_bits[i]!=transmitted_bits[i]){\r\n        \r\n        count++;\r\n    }\r\n}\r\n\r\nBER=count/length;&quot;" Id="15" OutliningMode="Automatic" xmlns="http://www.ni.com/CCode">
 				<CCodeNodeDll DllId="{7fa6a184-f764-43a9-91d1-6a7d598d41ae}" Id="16" />
-				<CVariable Bounds="-85 125 105 15" DataType="Int16[]" Direction="Input" Facade="" Hotspot="-85 130" Id="1" IsTypeFixed="True" Name="received_bits" Usage="Required" />
-				<CVariable Bounds="-100 55 120 15" DataType="Int8[]" Direction="Input" Facade="" Hotspot="-100 60" Id="2" IsTypeFixed="True" Name="transmitted_bits" Usage="Required" />
-				<CVariable Bounds="-45 180 65 15" DataType="Int32" Direction="Input" Facade="" Hotspot="-45 185" Id="3" IsTypeFixed="True" Name="length" Usage="Required" />
-				<CVariable Bounds="380 115 55 15" DataType="Double" Direction="Output" Facade="" Hotspot="435 120" Id="4" IsTypeFixed="True" Name="BER" Usage="Optional" />
+				<CVariable Bounds="-85 125 105 15" DataType="Int16[]" Direction="Input" Hotspot="-85 130" Id="1" IsTypeFixed="True" Name="received_bits" Usage="Required" />
+				<CVariable Bounds="-100 55 120 15" DataType="Int8[]" Direction="Input" Hotspot="-100 60" Id="2" IsTypeFixed="True" Name="transmitted_bits" Usage="Required" />
+				<CVariable Bounds="-45 180 65 15" DataType="Int32" Direction="Input" Hotspot="-45 185" Id="3" IsTypeFixed="True" Name="length" Usage="Required" />
+				<CVariable Bounds="380 115 55 15" DataType="Double" Direction="Output" Hotspot="435 120" Id="4" IsTypeFixed="True" Name="BER" Usage="Optional" />
 			</CCodeNode>
 			<DataAccessor Bounds="205 340 40 15" DataItem="17" Id="22" Label="24" xmlns="http://www.ni.com/MocCommon">
 				<Terminal DataType="Int16[]" Direction="Output" Hotspot="40 5" Id="Value" xmlns="http://www.ni.com/PlatformFramework" />
@@ -73,10 +73,10 @@
 			<Wire Id="34" Joints="N(31:Value) N(15:2)" xmlns="http://www.ni.com/PlatformFramework" />
 			<ArraySize Bounds="295 385 40 20" Id="35" />
 			<Wire Id="37" Joints="N(35:size(s\)) N(15:3)" xmlns="http://www.ni.com/PlatformFramework" />
-			<DataAccessor Bounds="905 330 40 15" DataItem="38" Id="40" Label="42" xmlns="http://www.ni.com/MocCommon">
+			<DataAccessor Bounds="915 330 40 15" DataItem="38" Id="40" Label="42" xmlns="http://www.ni.com/MocCommon">
 				<Terminal DataType="Double" Direction="Input" Hotspot="3 5" Id="Value" xmlns="http://www.ni.com/PlatformFramework" />
 			</DataAccessor>
-			<NodeLabel AttachedTo="40" Bounds="950 330 23 14" Id="42" xmlns="http://www.ni.com/PlatformFramework">
+			<NodeLabel AttachedTo="40" Bounds="960 330 23 14" Id="42" xmlns="http://www.ni.com/PlatformFramework">
 				<p.Text>BER</p.Text>
 			</NodeLabel>
 			<Wire Id="43" Joints="N(15:4) N(40:Value)" xmlns="http://www.ni.com/PlatformFramework" />
